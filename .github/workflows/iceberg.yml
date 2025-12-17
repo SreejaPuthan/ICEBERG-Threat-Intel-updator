@@ -1,11 +1,10 @@
 name: ICEBERG – Automated CVE Intelligence
 
 on:
+  on:
+  workflow_dispatch:
   schedule:
-    # Runs every day at 03:00 UTC
-    - cron: "0 3 * * *"
-  workflow_dispatch:   # Allows manual run from GitHub UI
-
+    - cron: "0 6 * * *"
 jobs:
   iceberg-run:
     runs-on: ubuntu-latest
