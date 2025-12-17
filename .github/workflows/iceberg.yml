@@ -40,3 +40,12 @@ jobs:
           git add README_ICEBERG.md
           git commit -m "🔄 Update ICEBERG CVE intelligence" || echo "No changes"
           git push
+
+        - name: Commit updated advisory
+          run: |
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add README_ICEBERG.md
+            git commit -m "Automated ICEBERG advisory update" || echo "No changes to commit"
+            git push
+
