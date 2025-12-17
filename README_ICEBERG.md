@@ -1,4 +1,4 @@
-# 🧊 ICEBERG – Live CVE Intelligence Feed
+# 🧊 ICEBERG – Indicators, CVEs & Exploitation Behavior Engine for Risk Groups (Live Feed)
 
 **Last Updated (UTC):** 2025-12-17 23:44:00
 
