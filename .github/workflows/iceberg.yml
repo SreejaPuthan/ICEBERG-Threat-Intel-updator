@@ -1,12 +1,12 @@
 name: ICEBERG – Automated CVE Intelligence
 
 on:
-  on:
   workflow_dispatch:
   schedule:
     - cron: "0 6 * * *"
+
 jobs:
-  iceberg-run:
+  iceberg:
     runs-on: ubuntu-latest
 
     steps:
@@ -29,4 +29,3 @@ jobs:
           ENABLE_GITHUB_POC: ${{ secrets.ENABLE_GITHUB_POC }}
         run: |
           python step3_merge_intel.py
-
