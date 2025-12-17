@@ -1,1 +1,33 @@
+name: ICEBERG – Automated CVE Intelligence
+
+on:
+  schedule:
+    # Runs every day at 03:00 UTC
+    - cron: "0 3 * * *"
+  workflow_dispatch:   # Allows manual run from GitHub UI
+
+jobs:
+  iceberg-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run ICEBERG
+        env:
+          NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
+          ENABLE_GITHUB_POC: ${{ secrets.ENABLE_GITHUB_POC }}
+        run: |
+          python step3_merge_intel.py
 
