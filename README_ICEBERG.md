@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2025-12-18 06:43:51
+**Last Updated (UTC):** 2025-12-18 12:58:56
 
 _Auto-generated. Do not edit manually._
 
@@ -32,6 +32,12 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2017-9048 | 7.5 | HIGH | xmlsoft | libxml2 | 2.9.4 | NETWORK | LOW | NA | UPDATED (2025-12-18T12:15:52.600) |
+| CVE-2019-3859 | 9.1 | CRITICAL | opensuse | leap | 15.0 | NETWORK | LOW | NA | UPDATED (2025-12-18T12:15:53.867) |
+| CVE-2025-13609 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2025-12-18T11:15:45.500) |
+| CVE-2025-13502 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2025-12-18T12:16:08.117) |
+| CVE-2025-13947 | 7.4 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2025-12-18T12:16:08.233) |
+| CVE-2025-66287 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2025-12-18T12:16:08.517) |
 | CVE-2025-56124 | 7.8 | HIGH | ruijie | rg-ew1200 | - | LOCAL | LOW | NA | UPDATED (2025-12-18T02:12:00.720) |
 | CVE-2025-56127 | 8.8 | HIGH | ruijie | rg-bcr600w | - | NETWORK | LOW | NA | UPDATED (2025-12-18T02:08:53.590) |
 | CVE-2025-14584 | 7.3 | HIGH | angeljudesuarez | covid_tracking_system | 1.0 | NETWORK | LOW | NA | UPDATED (2025-12-18T02:34:42.373) |
