@@ -1,6 +1,6 @@
-# 🧊 ICEBERG – Indicators, CVEs & Exploitation Behavior Engine for Risk Groups (Live CVE Intelligence Feed)
+# 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2025-12-19 02:11:19
+**Last Updated (UTC):** 2025-12-19 06:42:03
 
 _Auto-generated. Do not edit manually._
 
@@ -17,4 +17,8 @@ _Auto-generated. Do not edit manually._
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
 | CVE-2025-64675 | 8.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-19T00:15:52.933) |
 | CVE-2025-11774 | 8.2 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2025-12-19T01:16:04.570) |
+| CVE-2025-13941 | 8.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2025-12-19T02:16:04.493) |
+| CVE-2025-52692 | 8.8 | HIGH | Unknown | Unknown | Unknown | ADJACENT_NETWORK | LOW | NA | NEW (2025-12-19T02:16:05.110) |
+| CVE-2025-67843 | 8.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-19T02:16:08.990) |
+| CVE-2025-14940 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-19T04:16:00.960) |
 
