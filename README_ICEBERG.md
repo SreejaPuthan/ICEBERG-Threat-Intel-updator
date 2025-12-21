@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2025-12-21 12:53:38
+**Last Updated (UTC):** 2025-12-21 18:37:09
 
 _Auto-generated. Do not edit manually._
 
