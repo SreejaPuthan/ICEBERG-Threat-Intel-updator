@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2025-12-23 02:12:47
+**Last Updated (UTC):** 2025-12-23 06:45:34
 
 _Auto-generated. Do not edit manually._
 
@@ -23,6 +23,7 @@ _Auto-generated. Do not edit manually._
 | CVE-2024-27065 | 7.8 | HIGH | debian | debian_linux | 10.0 | LOCAL | LOW | NA | UPDATED (2025-12-23T00:40:57.970) |
 | CVE-2024-27075 | 7.8 | HIGH | debian | debian_linux | 10.0 | LOCAL | LOW | NA | UPDATED (2025-12-23T00:39:32.473) |
 | CVE-2025-3699 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2025-12-23T00:15:43.540) |
+| CVE-2025-64310 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2025-12-23T03:15:50.583) |
 | CVE-2025-57198 | 8.8 | HIGH | avtech | dgm1104 | - | NETWORK | LOW | NA | UPDATED (2025-12-23T00:36:53.233) |
 | CVE-2025-57199 | 8.8 | HIGH | avtech | dgm1104 | - | NETWORK | LOW | NA | UPDATED (2025-12-23T00:34:58.087) |
 | CVE-2025-57201 | 8.8 | HIGH | avtech | dgm1104 | - | NETWORK | LOW | NA | UPDATED (2025-12-23T00:32:22.017) |
