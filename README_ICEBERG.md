@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2025-12-25 12:57:00
+**Last Updated (UTC):** 2025-12-25 18:39:01
 
 _Auto-generated. Do not edit manually._
 
@@ -27,4 +27,7 @@ _Auto-generated. Do not edit manually._
 | CVE-2025-66377 | 7.5 | HIGH | Unknown | Unknown | Unknown | ADJACENT_NETWORK | HIGH | NA | NEW (2025-12-25T05:16:09.197) |
 | CVE-2025-66379 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-25T05:16:09.603) |
 | CVE-2025-66443 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-25T05:16:09.803) |
+| CVE-2025-2307 | 7.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-25T14:15:52.410) |
+| CVE-2025-2405 | 7.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-25T14:15:52.707) |
+| CVE-2025-2406 | 7.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-25T14:15:52.857) |
 
