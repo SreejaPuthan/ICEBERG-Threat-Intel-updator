@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2025-12-31 02:19:20
+**Last Updated (UTC):** 2025-12-31 06:44:22
 
 _Auto-generated. Do not edit manually._
 
@@ -51,7 +51,14 @@ _Auto-generated. Do not edit manually._
 | CVE-2025-4362 | 7.3 | HIGH | admerc | gym_management_system | 1.0 | NETWORK | LOW | NA | UPDATED (2025-12-31T01:53:26.870) |
 | CVE-2022-49950 | 7.8 | HIGH | linux | linux_kernel | * | LOCAL | LOW | NA | UPDATED (2025-12-31T00:56:16.950) |
 | CVE-2024-56143 | 8.2 | HIGH | strapi | strapi | * | NETWORK | LOW | NA | UPDATED (2025-12-31T01:05:40.340) |
+| CVE-2025-59500 | 7.7 | HIGH | microsoft | azure_notification_service | - | NETWORK | LOW | NA | UPDATED (2025-12-31T02:32:27.200) |
+| CVE-2025-59503 | 10.0 | CRITICAL | microsoft | azure_compute_resource_provider | - | NETWORK | LOW | NA | UPDATED (2025-12-31T02:30:53.270) |
 | CVE-2025-11200 | 9.8 | CRITICAL | lfprojects | mlflow | * | NETWORK | LOW | NA | UPDATED (2025-12-31T01:06:20.083) |
+| CVE-2025-62726 | 8.8 | HIGH | n8n | n8n | * | NETWORK | LOW | NA | UPDATED (2025-12-31T02:30:18.443) |
+| CVE-2024-25621 | 7.3 | HIGH | linuxfoundation | containerd | * | LOCAL | LOW | NA | UPDATED (2025-12-31T02:29:30.480) |
+| CVE-2025-63408 | 7.8 | HIGH | ispyconnect | agent_dvr | * | LOCAL | LOW | NA | UPDATED (2025-12-31T02:25:54.523) |
+| CVE-2025-63602 | 7.3 | HIGH | awesomeminer | awesome_miner | 11.2.4 | NETWORK | LOW | NA | UPDATED (2025-12-31T02:24:57.383) |
+| CVE-2025-34324 | 7.8 | HIGH | infocert | gosign | * | LOCAL | LOW | NA | UPDATED (2025-12-31T02:19:33.927) |
 | CVE-2025-63829 | 7.5 | HIGH | eprosima | fast_dds | * | NETWORK | LOW | NA | UPDATED (2025-12-31T02:09:57.753) |
 | CVE-2025-56643 | 9.1 | CRITICAL | requarks | wiki.js | 2.5.307 | NETWORK | LOW | NA | UPDATED (2025-12-31T02:06:51.750) |
 | CVE-2025-63994 | 9.8 | CRITICAL | psolom | richfilemanager | 2.7.6 | NETWORK | LOW | NA | UPDATED (2025-12-31T02:04:56.717) |
@@ -66,5 +73,15 @@ _Auto-generated. Do not edit manually._
 | CVE-2025-37164 | 10.0 | CRITICAL | hpe | oneview | * | NETWORK | LOW | NA | UPDATED (2025-12-31T00:29:42.973) |
 | CVE-2025-63414 | 10.0 | CRITICAL | allskyteam | allsky | 2024.12.06_06 | NETWORK | LOW | NA | UPDATED (2025-12-31T00:25:34.513) |
 | CVE-2025-14832 | 7.3 | HIGH | admerc | online_cake_ordering_system | 1.0 | NETWORK | LOW | NA | UPDATED (2025-12-31T01:00:57.970) |
+| CVE-2025-68973 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | HIGH | NA | UPDATED (2025-12-31T04:15:53.420) |
 | CVE-2025-15371 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2025-12-31T01:15:54.797) |
+| CVE-2025-49346 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-31T05:16:06.637) |
+| CVE-2025-59137 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-31T05:16:07.443) |
+| CVE-2025-49342 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-31T06:15:40.517) |
+| CVE-2025-49343 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-31T06:15:40.677) |
+| CVE-2025-49344 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-31T06:15:40.813) |
+| CVE-2025-49345 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-31T06:15:40.957) |
+| CVE-2025-49353 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-31T06:15:41.083) |
+| CVE-2025-49354 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-31T06:15:41.223) |
+| CVE-2025-68885 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2025-12-31T06:15:41.370) |
 
