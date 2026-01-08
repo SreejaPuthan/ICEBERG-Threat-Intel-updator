@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-01-08 06:46:07
+**Last Updated (UTC):** 2026-01-08 13:02:39
 
 _Auto-generated. Do not edit manually._
 
@@ -8,21 +8,25 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
-| CVE-2009-0556 | 8.8 | HIGH | microsoft | office_powerpoint | 2004 | NETWORK | LOW | NA | OLD (2026-01-07T19:15:53.077) |
+| CVE-2009-0556 | 8.8 | HIGH | microsoft | office_powerpoint | 2004 | NETWORK | LOW | NA | UPDATED (2026-01-08T02:00:02.163) |
 | CVE-2023-4911 | 7.8 | HIGH | netapp | ontap_select_deploy_administration_utility | - | LOCAL | LOW | NA | UPDATED (2026-01-08T05:15:49.563) |
-| CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | OLD (2026-01-07T02:00:02.443) |
-| CVE-2025-37164 | 10.0 | CRITICAL | hpe | oneview | * | NETWORK | LOW | NA | UPDATED (2026-01-08T00:15:59.553) |
+| CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | UPDATED (2026-01-08T02:00:02.163) |
+| CVE-2025-37164 | 10.0 | CRITICAL | hpe | oneview | * | NETWORK | LOW | NA | UPDATED (2026-01-08T02:00:02.163) |
 
 ## ⚠️ High / Critical Vulnerabilities (Not Yet Exploited)
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2024-1182 | 7.0 | HIGH | Unknown | Unknown | Unknown | LOCAL | HIGH | NA | UPDATED (2026-01-08T12:15:45.277) |
 | CVE-2025-0689 | 7.8 | HIGH | gnu | grub2 | * | LOCAL | LOW | NA | UPDATED (2026-01-08T04:15:52.877) |
 | CVE-2025-1125 | 7.8 | HIGH | gnu | grub2 | * | LOCAL | LOW | NA | UPDATED (2026-01-08T04:15:53.150) |
 | CVE-2025-5318 | 7.1 | HIGH | libssh | libssh | * | NETWORK | LOW | NA | UPDATED (2026-01-08T04:15:54.630) |
 | CVE-2025-5987 | 8.1 | HIGH | libssh | libssh | * | NETWORK | HIGH | NA | UPDATED (2026-01-08T04:15:55.670) |
+| CVE-2025-53513 | 8.8 | HIGH | canonical | juju | * | NETWORK | LOW | NA | UPDATED (2026-01-08T11:51:23.900) |
+| CVE-2025-0928 | 8.8 | HIGH | canonical | juju | * | NETWORK | LOW | NA | UPDATED (2026-01-08T11:51:10.430) |
 | CVE-2025-7365 | 7.1 | HIGH | redhat | keycloak | - | NETWORK | HIGH | NA | UPDATED (2026-01-08T04:15:56.160) |
 | CVE-2025-4056 | 7.5 | HIGH | microsoft | windows | - | NETWORK | LOW | NA | UPDATED (2026-01-08T04:15:54.310) |
+| CVE-2025-9086 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-08T10:15:54.737) |
 | CVE-2025-4953 | 7.4 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | UPDATED (2026-01-08T04:15:54.477) |
 | CVE-2025-14874 | 7.5 | HIGH | redhat | advanced_cluster_management_for_kubernetes | 2.0 | NETWORK | LOW | NA | UPDATED (2026-01-08T03:15:43.190) |
 | CVE-2017-20213 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-08T00:15:56.343) |
@@ -44,4 +48,7 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-22035 | 7.7 | HIGH | Unknown | Unknown | Unknown | LOCAL | HIGH | NA | NEW (2026-01-08T01:15:55.847) |
 | CVE-2026-21881 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-08T02:15:53.803) |
 | CVE-2019-25296 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-08T03:15:41.970) |
+| CVE-2026-0700 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-08T07:15:49.733) |
+| CVE-2026-21873 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-08T10:15:55.617) |
+| CVE-2025-66001 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-08T11:15:43.457) |
 
