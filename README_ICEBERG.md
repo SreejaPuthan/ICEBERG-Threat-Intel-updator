@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-01-13 06:46:40
+**Last Updated (UTC):** 2026-01-13 13:03:43
 
 _Auto-generated. Do not edit manually._
 
@@ -15,7 +15,14 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2024-49775 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-13T10:15:56.083) |
 | CVE-2025-20711 | 8.8 | HIGH | mediatek | mt6890 | - | ADJACENT_NETWORK | LOW | NA | UPDATED (2026-01-13T06:15:49.410) |
+| CVE-2024-56835 | 8.8 | HIGH | siemens | ruggedcom_rox_ii | - | NETWORK | LOW | NA | UPDATED (2026-01-13T10:15:56.650) |
+| CVE-2024-56836 | 7.5 | HIGH | siemens | ruggedcom_rox_ii | - | NETWORK | HIGH | NA | UPDATED (2026-01-13T10:15:56.830) |
+| CVE-2024-56837 | 7.2 | HIGH | siemens | ruggedcom_rox_ii | - | NETWORK | LOW | NA | UPDATED (2026-01-13T10:15:56.970) |
+| CVE-2024-56838 | 7.2 | HIGH | siemens | ruggedcom_rox_ii | - | NETWORK | LOW | NA | UPDATED (2026-01-13T10:15:57.100) |
+| CVE-2024-56839 | 7.2 | HIGH | siemens | ruggedcom_rox_ii | - | NETWORK | LOW | NA | UPDATED (2026-01-13T10:15:57.237) |
+| CVE-2024-56840 | 7.2 | HIGH | siemens | ruggedcom_rox_ii | - | NETWORK | LOW | NA | UPDATED (2026-01-13T10:15:57.360) |
 | CVE-2025-15068 | 7.7 | HIGH | gmission | web_fax | * | LOCAL | LOW | NA | UPDATED (2026-01-13T05:16:06.463) |
 | CVE-2025-15069 | 7.1 | HIGH | gmission | web_fax | * | LOCAL | LOW | NA | UPDATED (2026-01-13T05:16:09.870) |
 | CVE-2026-0719 | 8.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-13T06:15:49.840) |
@@ -29,4 +36,8 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-0511 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-13T02:15:53.800) |
 | CVE-2025-66176 | 8.8 | HIGH | Unknown | Unknown | Unknown | ADJACENT_NETWORK | LOW | NA | NEW (2026-01-13T03:16:01.097) |
 | CVE-2025-66177 | 8.8 | HIGH | Unknown | Unknown | Unknown | ADJACENT_NETWORK | LOW | NA | NEW (2026-01-13T03:16:01.250) |
+| CVE-2025-41717 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-13T08:16:03.993) |
+| CVE-2025-40805 | 10.0 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-13T10:15:58.047) |
+| CVE-2025-40942 | 8.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-01-13T10:15:58.283) |
+| CVE-2025-40944 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-13T10:15:58.457) |
 
