@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-01-14 06:48:56
+**Last Updated (UTC):** 2026-01-14 13:03:50
 
 _Auto-generated. Do not edit manually._
 
@@ -15,6 +15,8 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2025-49201 | 8.1 | HIGH | fortinet | fortiswitchmanager | * | NETWORK | HIGH | NA | UPDATED (2026-01-14T10:16:05.177) |
+| CVE-2025-58692 | 8.8 | HIGH | fortinet | fortivoice | * | NETWORK | LOW | NA | UPDATED (2026-01-14T10:16:07.170) |
 | CVE-2026-22686 | 10.0 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-14T00:15:49.957) |
 | CVE-2025-12050 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-01-14T01:15:49.743) |
 | CVE-2025-12051 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-01-14T02:15:49.700) |
@@ -33,4 +35,7 @@ _Auto-generated. Do not edit manually._
 | CVE-2025-15266 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-14T06:15:53.980) |
 | CVE-2025-15283 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-14T06:15:54.130) |
 | CVE-2025-15378 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-14T06:15:54.437) |
+| CVE-2025-14770 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-14T07:16:13.493) |
+| CVE-2026-23550 | 10.0 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-14T09:16:02.520) |
+| CVE-2026-0532 | 8.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-14T11:15:50.510) |
 
