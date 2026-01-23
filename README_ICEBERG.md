@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-01-23 06:48:08
+**Last Updated (UTC):** 2026-01-23 13:04:17
 
 _Auto-generated. Do not edit manually._
 
@@ -18,6 +18,8 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2025-5222 | 7.0 | HIGH | unicode | international_components_for_unicode | * | LOCAL | HIGH | NA | UPDATED (2026-01-23T11:33:07.200) |
+| CVE-2025-38248 | 7.8 | HIGH | linux | linux_kernel | * | LOCAL | LOW | NA | UPDATED (2026-01-23T11:15:47.717) |
 | CVE-2025-39760 | 7.1 | HIGH | debian | debian_linux | 11.0 | LOCAL | LOW | NA | UPDATED (2026-01-23T02:35:39.520) |
 | CVE-2025-39866 | 7.8 | HIGH | debian | debian_linux | 11.0 | LOCAL | LOW | NA | UPDATED (2026-01-23T02:33:32.033) |
 | CVE-2025-39891 | 7.1 | HIGH | debian | debian_linux | 11.0 | LOCAL | LOW | NA | UPDATED (2026-01-23T02:32:19.700) |
@@ -28,6 +30,7 @@ _Auto-generated. Do not edit manually._
 | CVE-2023-53507 | 7.8 | HIGH | linux | linux_kernel | * | LOCAL | LOW | NA | UPDATED (2026-01-23T02:03:10.837) |
 | CVE-2023-53508 | 7.8 | HIGH | linux | linux_kernel | * | LOCAL | LOW | NA | UPDATED (2026-01-23T01:59:45.590) |
 | CVE-2023-53889 | 7.2 | HIGH | grabaperch | perch | 3.2 | NETWORK | LOW | NA | UPDATED (2026-01-23T02:36:27.903) |
+| CVE-2026-21441 | 7.5 | HIGH | python | urllib3 | * | NETWORK | LOW | NA | UPDATED (2026-01-23T09:15:47.823) |
 | CVE-2025-56425 | 9.1 | CRITICAL | optimal-systems | enaio | * | NETWORK | LOW | NA | UPDATED (2026-01-23T02:15:57.013) |
 | CVE-2025-56225 | 7.5 | HIGH | fluidsynth | fluidsynth | * | NETWORK | LOW | NA | UPDATED (2026-01-23T02:13:04.377) |
 | CVE-2026-24138 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-23T01:15:51.023) |
@@ -35,4 +38,10 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-0710 | 8.4 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-01-23T04:16:01.860) |
 | CVE-2025-3839 | 8.0 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-01-23T05:16:21.753) |
 | CVE-2025-67847 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-23T05:16:24.250) |
+| CVE-2024-11976 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-23T07:15:51.857) |
+| CVE-2026-0603 | 8.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-23T07:15:53.660) |
+| CVE-2026-1363 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-23T09:15:47.430) |
+| CVE-2026-1364 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-23T09:15:47.643) |
+| CVE-2026-22271 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-01-23T09:15:48.030) |
+| CVE-2026-22273 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-23T10:15:53.317) |
 
