@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-01-30 02:43:01
+**Last Updated (UTC):** 2026-01-30 07:01:36
 
 _Auto-generated. Do not edit manually._
 
@@ -16,6 +16,11 @@ _Auto-generated. Do not edit manually._
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
 | CVE-2025-6776 | 7.3 | HIGH | xiaoyunjie | openvpn-cms-flask | * | NETWORK | LOW | NA | UPDATED (2026-01-30T00:40:56.397) |
+| CVE-2025-54942 | 9.8 | CRITICAL | sun.net | ehrd_ctms | * | NETWORK | LOW | NA | UPDATED (2026-01-30T05:16:12.113) |
+| CVE-2025-54943 | 9.8 | CRITICAL | sun.net | ehrd_ctms | * | NETWORK | LOW | NA | UPDATED (2026-01-30T04:15:48.950) |
+| CVE-2025-54944 | 9.8 | CRITICAL | sun.net | ehrd_ctms | * | NETWORK | LOW | NA | UPDATED (2026-01-30T04:15:49.267) |
+| CVE-2025-54945 | 9.8 | CRITICAL | sun.net | ehrd_ctms | * | NETWORK | LOW | NA | UPDATED (2026-01-30T04:15:49.563) |
+| CVE-2025-54946 | 9.8 | CRITICAL | sun.net | ehrd_ctms | * | NETWORK | LOW | NA | UPDATED (2026-01-30T04:15:49.860) |
 | CVE-2025-67158 | 7.5 | HIGH | revotech | i6032w-fhw | - | NETWORK | LOW | NA | UPDATED (2026-01-30T01:44:59.747) |
 | CVE-2025-67159 | 7.5 | HIGH | vatilon | pa4 | - | NETWORK | LOW | NA | UPDATED (2026-01-30T01:44:46.417) |
 | CVE-2025-67160 | 7.5 | HIGH | vatilon | pa4 | - | NETWORK | LOW | NA | UPDATED (2026-01-30T01:44:38.420) |
