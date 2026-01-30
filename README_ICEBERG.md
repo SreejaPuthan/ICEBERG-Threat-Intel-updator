@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-01-30 07:01:36
+**Last Updated (UTC):** 2026-01-30 13:13:52
 
 _Auto-generated. Do not edit manually._
 
@@ -9,13 +9,16 @@ _Auto-generated. Do not edit manually._
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
 | CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | OLD (2026-01-27T02:00:01.893) |
-| CVE-2026-1281 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | OLD (2026-01-29T22:15:53.140) |
+| CVE-2026-1281 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-30T13:05:23.460) |
 
 ## ⚠️ High / Critical Vulnerabilities (Not Yet Exploited)
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2025-37926 | 7.8 | HIGH | linux | linux_kernel | * | LOCAL | LOW | NA | UPDATED (2026-01-30T10:15:54.440) |
 | CVE-2025-6776 | 7.3 | HIGH | xiaoyunjie | openvpn-cms-flask | * | NETWORK | LOW | NA | UPDATED (2026-01-30T00:40:56.397) |
+| CVE-2025-38248 | 7.8 | HIGH | linux | linux_kernel | * | LOCAL | LOW | NA | UPDATED (2026-01-30T10:15:55.030) |
+| CVE-2025-38361 | 7.8 | HIGH | linux | linux_kernel | * | LOCAL | LOW | NA | UPDATED (2026-01-30T10:15:55.173) |
 | CVE-2025-54942 | 9.8 | CRITICAL | sun.net | ehrd_ctms | * | NETWORK | LOW | NA | UPDATED (2026-01-30T05:16:12.113) |
 | CVE-2025-54943 | 9.8 | CRITICAL | sun.net | ehrd_ctms | * | NETWORK | LOW | NA | UPDATED (2026-01-30T04:15:48.950) |
 | CVE-2025-54944 | 9.8 | CRITICAL | sun.net | ehrd_ctms | * | NETWORK | LOW | NA | UPDATED (2026-01-30T04:15:49.267) |
@@ -52,4 +55,12 @@ _Auto-generated. Do not edit manually._
 | CVE-2021-47811 | 8.2 | HIGH | grocerycrud | grocery_crud | * | NETWORK | LOW | NA | UPDATED (2026-01-30T00:48:50.647) |
 | CVE-2021-47812 | 7.5 | HIGH | getgrav | grav | 1.10.7 | NETWORK | LOW | NA | UPDATED (2026-01-30T00:47:11.950) |
 | CVE-2025-69517 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-01-30T00:15:56.327) |
+| CVE-2026-0805 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-01-30T07:16:14.917) |
+| CVE-2026-0963 | 9.9 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-30T07:16:15.173) |
+| CVE-2025-1395 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-30T09:15:49.610) |
+| CVE-2026-21418 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-01-30T09:15:50.920) |
+| CVE-2026-22277 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-01-30T09:15:51.090) |
+| CVE-2026-1699 | 10.0 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-30T10:15:56.617) |
+| CVE-2026-0709 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-30T11:15:55.530) |
+| CVE-2026-22623 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-30T11:15:55.663) |
 
