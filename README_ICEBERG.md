@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-01-31 13:04:39
+**Last Updated (UTC):** 2026-01-31 18:43:44
 
 _Auto-generated. Do not edit manually._
 
@@ -15,4 +15,5 @@ _Auto-generated. Do not edit manually._
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
 | CVE-2026-0227 | 7.5 | HIGH | paloaltonetworks | prisma_access | - | NETWORK | LOW | NA | UPDATED (2026-01-31T00:15:52.037) |
+| CVE-2025-14554 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-01-31T14:16:59.983) |
 
