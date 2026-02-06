@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-02-06 02:46:13
+**Last Updated (UTC):** 2026-02-06 07:04:15
 
 _Auto-generated. Do not edit manually._
 
@@ -17,4 +17,5 @@ _Auto-generated. Do not edit manually._
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
 | CVE-2026-0106 | 9.3 | CRITICAL | Unknown | Unknown | Unknown | LOCAL | LOW | NA | UPDATED (2026-02-06T01:15:50.533) |
+| CVE-2025-15566 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-06T04:15:51.960) |
 
