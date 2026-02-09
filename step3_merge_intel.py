@@ -144,7 +144,7 @@ def write_table_md(title, cves):
 
     write_md("")
 
-# ----------------------- Console Table -------------------------
+# ----------------------- Console Table --------------------------
 def print_console(title, cves):
     if not cves:
         return
