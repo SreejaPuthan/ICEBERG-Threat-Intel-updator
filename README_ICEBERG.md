@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-02-26 07:10:35
+**Last Updated (UTC):** 2026-02-26 13:25:23
 
 _Auto-generated. Do not edit manually._
 
@@ -14,6 +14,7 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2025-36588 | 8.8 | HIGH | dell | unisphere_for_powermax | * | NETWORK | LOW | NA | UPDATED (2026-02-26T13:16:16.577) |
 | CVE-2025-15560 | 8.8 | HIGH | nestersoft | worktime | * | NETWORK | LOW | NA | UPDATED (2026-02-26T02:58:58.713) |
 | CVE-2025-15561 | 7.8 | HIGH | nestersoft | worktime | * | LOCAL | LOW | NA | UPDATED (2026-02-26T02:58:45.617) |
 | CVE-2026-26201 | 7.5 | HIGH | jm33-m0 | emp3r0r | * | NETWORK | LOW | NA | UPDATED (2026-02-26T02:51:06.013) |
@@ -43,4 +44,5 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-27966 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-26T02:16:23.833) |
 | CVE-2026-1779 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-02-26T03:16:03.827) |
 | CVE-2026-1311 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-26T05:17:41.933) |
+| CVE-2025-14343 | 7.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-02-26T13:16:16.377) |
 
