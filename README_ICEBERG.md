@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-03-12 02:47:07
+**Last Updated (UTC):** 2026-03-12 07:06:19
 
 _Auto-generated. Do not edit manually._
 
@@ -23,4 +23,11 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-3971 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-12T01:15:55.650) |
 | CVE-2026-3972 | 8.8 | HIGH | Unknown | Unknown | Unknown | ADJACENT_NETWORK | LOW | NA | NEW (2026-03-12T02:15:58.607) |
 | CVE-2026-3973 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-12T02:15:58.817) |
+| CVE-2026-3657 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-12T03:15:57.923) |
+| CVE-2026-3974 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-12T03:15:58.120) |
+| CVE-2026-3975 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-12T03:15:58.523) |
+| CVE-2026-3976 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-12T03:15:58.740) |
+| CVE-2026-3978 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-12T04:16:40.173) |
+| CVE-2026-3980 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-12T05:16:13.610) |
+| CVE-2026-3981 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-12T05:16:14.520) |
 
