@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-03-13 07:05:25
+**Last Updated (UTC):** 2026-03-13 13:17:39
 
 _Auto-generated. Do not edit manually._
 
@@ -22,4 +22,8 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-27748 | 7.8 | HIGH | avira | internet_security | * | LOCAL | LOW | NA | UPDATED (2026-03-13T01:22:40.027) |
 | CVE-2026-27749 | 7.8 | HIGH | avira | internet_security | * | LOCAL | LOW | NA | UPDATED (2026-03-13T01:21:04.073) |
 | CVE-2026-27750 | 7.8 | HIGH | avira | internet_security | * | LOCAL | LOW | NA | UPDATED (2026-03-13T01:19:54.817) |
+| CVE-2025-13929 | 7.5 | HIGH | gitlab | gitlab | * | NETWORK | LOW | NA | UPDATED (2026-03-13T12:33:51.213) |
+| CVE-2025-14513 | 7.5 | HIGH | gitlab | gitlab | * | NETWORK | LOW | NA | UPDATED (2026-03-13T12:34:46.100) |
+| CVE-2026-1069 | 7.5 | HIGH | gitlab | gitlab | * | NETWORK | LOW | NA | UPDATED (2026-03-13T12:35:38.543) |
+| CVE-2026-1090 | 8.7 | HIGH | gitlab | gitlab | * | NETWORK | LOW | NA | UPDATED (2026-03-13T12:36:26.963) |
 
