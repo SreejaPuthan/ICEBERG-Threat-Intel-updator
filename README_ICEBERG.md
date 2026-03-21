@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-03-21 06:56:55
+**Last Updated (UTC):** 2026-03-21 13:06:43
 
 _Auto-generated. Do not edit manually._
 
@@ -30,6 +30,7 @@ _Auto-generated. Do not edit manually._
 | CVE-2025-67830 | 9.8 | CRITICAL | murasoftware | mura_cms | * | NETWORK | LOW | NA | UPDATED (2026-03-21T00:17:17.210) |
 | CVE-2026-32610 | 8.1 | HIGH | nicolargo | glances | * | NETWORK | LOW | NA | UPDATED (2026-03-21T00:16:56.353) |
 | CVE-2026-26740 | 8.2 | HIGH | giflib_project | giflib | 5.2.2 | NETWORK | LOW | NA | UPDATED (2026-03-21T00:09:00.920) |
+| CVE-2006-10002 | 7.5 | HIGH | toddr | xml\ | \ | NETWORK | LOW | NA | UPDATED (2026-03-21T12:16:15.827) |
 | CVE-2026-33010 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-21T00:16:26.410) |
 | CVE-2026-24060 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-21T00:16:25.483) |
 | CVE-2026-25086 | 7.7 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-03-21T00:16:25.683) |
@@ -55,4 +56,5 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-3334 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-21T04:17:20.330) |
 | CVE-2026-3478 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-21T04:17:25.807) |
 | CVE-2026-4261 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-21T04:17:44.223) |
+| CVE-2026-4373 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-21T07:16:10.380) |
 
