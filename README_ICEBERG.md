@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-03-24 07:14:54
+**Last Updated (UTC):** 2026-03-24 13:42:19
 
 _Auto-generated. Do not edit manually._
 
@@ -14,7 +14,21 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
-| CVE-2025-14905 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-24T02:16:03.100) |
+| CVE-2023-5178 | 8.8 | HIGH | netapp | active_iq_unified_manager | - | NETWORK | LOW | NA | UPDATED (2026-03-24T12:16:08.813) |
+| CVE-2023-39198 | 7.5 | HIGH | redhat | enterprise_linux | 8.0 | LOCAL | HIGH | NA | UPDATED (2026-03-24T12:16:07.637) |
+| CVE-2023-6394 | 7.4 | HIGH | redhat | build_of_quarkus | - | NETWORK | HIGH | NA | UPDATED (2026-03-24T12:16:10.450) |
+| CVE-2023-6377 | 7.8 | HIGH | redhat | enterprise_linux | 6.0 | LOCAL | LOW | NA | UPDATED (2026-03-24T12:16:09.930) |
+| CVE-2023-6270 | 7.0 | HIGH | fedoraproject | fedora | 39 | LOCAL | HIGH | NA | UPDATED (2026-03-24T12:16:09.420) |
+| CVE-2024-0553 | 7.5 | HIGH | redhat | enterprise_linux | 8.0 | NETWORK | LOW | NA | UPDATED (2026-03-24T12:16:10.683) |
+| CVE-2023-50781 | 7.5 | HIGH | m2crypto_project | m2crypto | - | NETWORK | LOW | NA | UPDATED (2026-03-24T12:16:08.310) |
+| CVE-2023-50782 | 7.5 | HIGH | couchbase | couchbase_server | 7.6.0 | NETWORK | LOW | NA | UPDATED (2026-03-24T12:16:08.550) |
+| CVE-2024-1485 | 8.0 | HIGH | devfile | registry-support | * | NETWORK | HIGH | NA | UPDATED (2026-03-24T12:16:11.663) |
+| CVE-2024-47552 | 9.8 | CRITICAL | apache | seata | * | NETWORK | LOW | NA | UPDATED (2026-03-24T11:16:20.273) |
+| CVE-2025-6021 | 7.5 | HIGH | redhat | jboss_core_services | - | NETWORK | LOW | NA | UPDATED (2026-03-24T12:16:12.097) |
+| CVE-2025-32897 | 9.8 | CRITICAL | apache | seata | * | NETWORK | LOW | NA | UPDATED (2026-03-24T11:16:22.527) |
+| CVE-2025-11234 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-24T11:16:21.360) |
+| CVE-2025-14905 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-24T11:16:22.157) |
+| CVE-2026-3009 | 8.1 | HIGH | redhat | build_of_keycloak | - | NETWORK | LOW | NA | UPDATED (2026-03-24T12:16:12.990) |
 | CVE-2025-69720 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-24T02:16:04.193) |
 | CVE-2026-30711 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-24T02:16:05.100) |
 | CVE-2026-30404 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-24T02:16:04.747) |
@@ -25,6 +39,7 @@ _Auto-generated. Do not edit manually._
 | CVE-2025-67114 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-24T02:16:03.830) |
 | CVE-2026-30694 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-24T02:16:04.917) |
 | CVE-2026-25667 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-24T02:16:04.377) |
+| CVE-2026-3587 | 10.0 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-24T08:16:01.910) |
 | CVE-2026-33211 | 9.6 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T00:16:29.320) |
 | CVE-2026-33242 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T00:16:29.670) |
 | CVE-2026-33250 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T00:16:29.830) |
@@ -66,4 +81,30 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-33856 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T06:16:22.970) |
 | CVE-2026-4750 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T06:16:23.260) |
 | CVE-2026-4753 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T06:16:23.700) |
+| CVE-2026-33852 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T07:16:07.163) |
+| CVE-2026-4755 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T07:16:07.500) |
+| CVE-2026-4756 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-03-24T07:16:07.650) |
+| CVE-2025-41660 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T08:16:00.230) |
+| CVE-2026-3509 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T08:16:01.657) |
+| CVE-2019-25626 | 8.4 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-03-24T12:16:02.230) |
+| CVE-2019-25627 | 8.4 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-03-24T12:16:02.560) |
+| CVE-2019-25628 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T12:16:02.777) |
+| CVE-2019-25629 | 8.4 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-03-24T12:16:02.997) |
+| CVE-2019-25630 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T12:16:03.200) |
+| CVE-2019-25631 | 8.4 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-03-24T12:16:03.393) |
+| CVE-2019-25633 | 8.4 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-03-24T12:16:03.797) |
+| CVE-2019-25634 | 8.4 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-03-24T12:16:04.000) |
+| CVE-2019-25635 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T12:16:04.203) |
+| CVE-2019-25636 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T12:16:04.400) |
+| CVE-2019-25637 | 8.4 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-03-24T12:16:04.593) |
+| CVE-2019-25638 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T12:16:04.780) |
+| CVE-2019-25639 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T12:16:04.983) |
+| CVE-2019-25640 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T12:16:05.193) |
+| CVE-2019-25641 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T12:16:06.270) |
+| CVE-2019-25642 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T12:16:06.450) |
+| CVE-2019-25643 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T12:16:06.640) |
+| CVE-2019-25646 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T12:16:07.217) |
+| CVE-2019-25647 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T12:16:07.400) |
+| CVE-2026-33309 | 9.9 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T13:16:02.983) |
+| CVE-2026-33475 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-24T13:16:04.030) |
 
