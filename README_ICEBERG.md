@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-03-31 07:40:12
+**Last Updated (UTC):** 2026-03-31 13:52:53
 
 _Auto-generated. Do not edit manually._
 
@@ -9,19 +9,24 @@ _Auto-generated. Do not edit manually._
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
 | CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | OLD (2026-03-30T01:00:01.607) |
+| CVE-2026-3055 | 9.8 | CRITICAL | citrix | netscaler_gateway | * | NETWORK | LOW | NA | UPDATED (2026-03-31T13:18:14.213) |
 
 ## ⚠️ High / Critical Vulnerabilities (Not Yet Exploited)
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
 | CVE-2024-8403 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-31T05:16:08.617) |
+| CVE-2025-47900 | 8.8 | HIGH | microchip | timeprovider_4100 | - | NETWORK | LOW | NA | UPDATED (2026-03-31T11:16:12.700) |
+| CVE-2025-47901 | 8.8 | HIGH | microchip | timeprovider_4100 | - | NETWORK | LOW | NA | UPDATED (2026-03-31T11:16:12.970) |
+| CVE-2025-47902 | 8.8 | HIGH | microchip | timeprovider_4100 | - | NETWORK | LOW | NA | UPDATED (2026-03-31T11:16:13.087) |
+| CVE-2025-7073 | 7.8 | HIGH | bitdefender | antivirus | * | LOCAL | LOW | NA | UPDATED (2026-03-31T12:16:26.993) |
 | CVE-2025-14905 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-31T05:16:10.140) |
 | CVE-2026-21666 | 9.9 | CRITICAL | veeam | veeam_backup_\&_replication | * | NETWORK | LOW | NA | UPDATED (2026-03-31T01:02:57.667) |
 | CVE-2026-21667 | 9.9 | CRITICAL | veeam | veeam_backup_\&_replication | * | NETWORK | LOW | NA | UPDATED (2026-03-31T01:01:37.427) |
-| CVE-2026-21668 | 8.8 | HIGH | veeam | veeam_backup_\&_replication | * | NETWORK | LOW | NA | UPDATED (2026-03-31T00:54:00.213) |
-| CVE-2026-21669 | 9.9 | CRITICAL | veeam | veeam_backup_\&_replication | * | NETWORK | LOW | NA | UPDATED (2026-03-31T00:51:43.193) |
+| CVE-2026-21668 | 8.8 | HIGH | veeam | veeam_backup_\&_replication | * | NETWORK | LOW | NA | UPDATED (2026-03-31T13:17:28.180) |
+| CVE-2026-21669 | 9.9 | CRITICAL | veeam | veeam_backup_\&_replication | * | NETWORK | LOW | NA | UPDATED (2026-03-31T13:17:22.957) |
 | CVE-2026-21670 | 7.7 | HIGH | veeam | veeam_backup_\&_replication | * | NETWORK | LOW | NA | UPDATED (2026-03-31T00:45:56.800) |
-| CVE-2026-21671 | 9.1 | CRITICAL | veeam | veeam_backup_\&_replication | * | NETWORK | LOW | NA | UPDATED (2026-03-31T00:43:59.117) |
+| CVE-2026-21671 | 9.1 | CRITICAL | veeam | veeam_backup_\&_replication | * | NETWORK | LOW | NA | UPDATED (2026-03-31T13:17:32.803) |
 | CVE-2026-20997 | 9.8 | CRITICAL | samsung | smart_switch | * | NETWORK | LOW | NA | UPDATED (2026-03-31T00:35:49.540) |
 | CVE-2026-20998 | 9.8 | CRITICAL | samsung | smart_switch | * | NETWORK | LOW | NA | UPDATED (2026-03-31T00:34:49.670) |
 | CVE-2026-20999 | 7.5 | HIGH | samsung | smart_switch | * | NETWORK | LOW | NA | UPDATED (2026-03-31T00:34:00.833) |
@@ -33,6 +38,11 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-33526 | 7.5 | HIGH | squid-cache | squid | * | NETWORK | LOW | NA | UPDATED (2026-03-31T01:18:03.043) |
 | CVE-2018-25204 | 8.2 | HIGH | wecodex | library_cms | 1.0 | NETWORK | LOW | NA | UPDATED (2026-03-31T01:15:27.480) |
 | CVE-2018-25212 | 8.4 | HIGH | boxoft | wav_to_wma_converter | 1.0 | LOCAL | LOW | NA | UPDATED (2026-03-31T01:13:14.803) |
+| CVE-2026-22593 | 8.4 | HIGH | linuxfoundation | everest | * | LOCAL | LOW | NA | UPDATED (2026-03-31T13:51:21.627) |
+| CVE-2026-22790 | 8.8 | HIGH | linuxfoundation | everest | * | ADJACENT_NETWORK | LOW | NA | UPDATED (2026-03-31T13:50:31.947) |
+| CVE-2026-23995 | 8.4 | HIGH | linuxfoundation | everest | * | LOCAL | LOW | NA | UPDATED (2026-03-31T13:49:39.677) |
+| CVE-2026-26008 | 7.5 | HIGH | linuxfoundation | everest | * | NETWORK | LOW | NA | UPDATED (2026-03-31T13:45:52.587) |
+| CVE-2026-33009 | 8.2 | HIGH | linuxfoundation | everest | * | NETWORK | LOW | NA | UPDATED (2026-03-31T13:30:58.910) |
 | CVE-2026-33640 | 9.8 | CRITICAL | getoutline | outline | * | NETWORK | LOW | NA | UPDATED (2026-03-31T01:42:34.940) |
 | CVE-2026-33664 | 7.3 | HIGH | kestra | kestra | * | NETWORK | LOW | NA | UPDATED (2026-03-31T01:48:34.413) |
 | CVE-2026-4902 | 8.8 | HIGH | tenda | ac5 | 1.0 | NETWORK | LOW | NA | UPDATED (2026-03-31T01:36:18.920) |
@@ -55,4 +65,20 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-5179 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T05:16:11.920) |
 | CVE-2026-5180 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T05:16:12.143) |
 | CVE-2026-5182 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T06:16:01.337) |
+| CVE-2025-10551 | 8.7 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T09:16:21.623) |
+| CVE-2025-10553 | 8.7 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T09:16:21.823) |
+| CVE-2025-10559 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T09:16:21.970) |
+| CVE-2026-5195 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T09:16:23.013) |
+| CVE-2026-5201 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T09:16:23.440) |
+| CVE-2026-32916 | 7.7 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-03-31T12:16:28.197) |
+| CVE-2026-32917 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T12:16:28.487) |
+| CVE-2026-32920 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T12:16:28.727) |
+| CVE-2026-32971 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-03-31T12:16:29.280) |
+| CVE-2026-32982 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T12:16:29.850) |
+| CVE-2026-32988 | 7.5 | HIGH | Unknown | Unknown | Unknown | LOCAL | HIGH | NA | NEW (2026-03-31T12:16:30.047) |
+| CVE-2026-34505 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T12:16:30.237) |
+| CVE-2026-34506 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T12:16:30.440) |
+| CVE-2026-34509 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T12:16:30.840) |
+| CVE-2026-4267 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T12:16:31.360) |
+| CVE-2026-5198 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T12:16:31.530) |
 
