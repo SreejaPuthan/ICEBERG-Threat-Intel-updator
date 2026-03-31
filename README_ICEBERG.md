@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-03-31 03:19:51
+**Last Updated (UTC):** 2026-03-31 07:40:12
 
 _Auto-generated. Do not edit manually._
 
@@ -14,6 +14,8 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2024-8403 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-31T05:16:08.617) |
+| CVE-2025-14905 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-03-31T05:16:10.140) |
 | CVE-2026-21666 | 9.9 | CRITICAL | veeam | veeam_backup_\&_replication | * | NETWORK | LOW | NA | UPDATED (2026-03-31T01:02:57.667) |
 | CVE-2026-21667 | 9.9 | CRITICAL | veeam | veeam_backup_\&_replication | * | NETWORK | LOW | NA | UPDATED (2026-03-31T01:01:37.427) |
 | CVE-2026-21668 | 8.8 | HIGH | veeam | veeam_backup_\&_replication | * | NETWORK | LOW | NA | UPDATED (2026-03-31T00:54:00.213) |
@@ -50,4 +52,7 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-34042 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T03:15:58.220) |
 | CVE-2026-34054 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-03-31T03:15:58.593) |
 | CVE-2026-34070 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T03:15:58.947) |
+| CVE-2026-5179 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T05:16:11.920) |
+| CVE-2026-5180 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T05:16:12.143) |
+| CVE-2026-5182 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-03-31T06:16:01.337) |
 
