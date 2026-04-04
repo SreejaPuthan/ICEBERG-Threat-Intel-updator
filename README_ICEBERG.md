@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-04-04 07:11:04
+**Last Updated (UTC):** 2026-04-04 13:13:36
 
 _Auto-generated. Do not edit manually._
 
@@ -14,6 +14,7 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2006-10003 | 9.8 | CRITICAL | toddr | xml\ | \ | NETWORK | LOW | NA | UPDATED (2026-04-04T09:16:18.710) |
 | CVE-2026-33990 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-04T04:17:15.437) |
 | CVE-2026-22815 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-04T04:17:11.500) |
 | CVE-2026-34516 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-04T04:17:20.147) |
@@ -25,4 +26,10 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-34955 | 8.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-04-04T00:16:19.370) |
 | CVE-2026-34780 | 8.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-04-04T01:16:39.540) |
 | CVE-2026-35616 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T01:16:39.720) |
+| CVE-2026-4896 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T08:16:06.543) |
+| CVE-2026-3445 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T09:16:20.330) |
+| CVE-2026-5425 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T09:16:20.500) |
+| CVE-2026-1233 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T12:16:02.943) |
+| CVE-2026-2936 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T12:16:03.090) |
+| CVE-2026-3666 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T12:16:03.390) |
 
