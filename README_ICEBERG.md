@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-04-04 02:50:22
+**Last Updated (UTC):** 2026-04-04 07:11:04
 
 _Auto-generated. Do not edit manually._
 
@@ -14,6 +14,10 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2026-33990 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-04T04:17:15.437) |
+| CVE-2026-22815 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-04T04:17:11.500) |
+| CVE-2026-34516 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-04T04:17:20.147) |
+| CVE-2026-34520 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-04T04:17:20.773) |
 | CVE-2026-34769 | 7.7 | HIGH | Unknown | Unknown | Unknown | LOCAL | HIGH | NA | NEW (2026-04-04T00:16:17.657) |
 | CVE-2026-34770 | 7.0 | HIGH | Unknown | Unknown | Unknown | LOCAL | HIGH | NA | NEW (2026-04-04T00:16:17.823) |
 | CVE-2026-34771 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-04-04T00:16:17.980) |
