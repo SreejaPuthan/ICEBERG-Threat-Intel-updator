@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-04-04 13:13:36
+**Last Updated (UTC):** 2026-04-04 18:55:21
 
 _Auto-generated. Do not edit manually._
 
@@ -32,4 +32,19 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-1233 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T12:16:02.943) |
 | CVE-2026-2936 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T12:16:03.090) |
 | CVE-2026-3666 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T12:16:03.390) |
+| CVE-2016-20052 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T14:16:17.520) |
+| CVE-2016-20055 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-04-04T14:16:17.863) |
+| CVE-2016-20056 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-04-04T14:16:18.057) |
+| CVE-2016-20057 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-04-04T14:16:18.223) |
+| CVE-2016-20058 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-04-04T14:16:18.390) |
+| CVE-2016-20059 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-04-04T14:16:18.557) |
+| CVE-2016-20060 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-04-04T14:16:18.757) |
+| CVE-2016-20061 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-04-04T14:16:18.930) |
+| CVE-2018-25241 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T14:16:19.623) |
+| CVE-2018-25245 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T14:16:20.330) |
+| CVE-2018-25248 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T14:16:20.683) |
+| CVE-2018-25250 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T14:16:21.033) |
+| CVE-2018-25251 | 8.4 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-04-04T14:16:21.203) |
+| CVE-2018-25254 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-04T14:16:21.743) |
+| CVE-2018-25255 | 8.4 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-04-04T14:16:21.907) |
 
