@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-04-07 03:20:49
+**Last Updated (UTC):** 2026-04-07 07:43:50
 
 _Auto-generated. Do not edit manually._
 
@@ -19,5 +19,9 @@ _Auto-generated. Do not edit manually._
 | CVE-2025-15554 | 7.8 | HIGH | truesec | lapswebui | * | LOCAL | LOW | NA | UPDATED (2026-04-07T00:50:55.053) |
 | CVE-2026-4193 | 7.3 | HIGH | dlink | dir-823g | - | NETWORK | LOW | NA | UPDATED (2026-04-07T01:12:00.430) |
 | CVE-2026-30405 | 7.5 | HIGH | osrg | gobgp | 4.2.0 | NETWORK | LOW | NA | UPDATED (2026-04-07T01:04:23.733) |
+| CVE-2026-34379 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-07T04:17:14.150) |
 | CVE-2026-5692 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-07T00:16:20.347) |
+| CVE-2026-0740 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-07T05:16:06.897) |
+| CVE-2025-65115 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-07T06:16:40.537) |
+| CVE-2026-5465 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-07T07:16:24.050) |
 
