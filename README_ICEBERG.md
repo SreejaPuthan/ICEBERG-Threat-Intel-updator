@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-04-08 07:47:27
+**Last Updated (UTC):** 2026-04-08 13:52:37
 
 _Auto-generated. Do not edit manually._
 
@@ -15,6 +15,10 @@ _Auto-generated. Do not edit manually._
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
 | CVE-2022-45063 | 9.8 | CRITICAL | fedoraproject | fedora | 35 | NETWORK | LOW | NA | UPDATED (2026-04-08T04:16:58.517) |
+| CVE-2026-1961 | 8.0 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-08T12:16:20.597) |
+| CVE-2026-33891 | 7.5 | HIGH | digitalbazaar | forge | * | NETWORK | LOW | NA | UPDATED (2026-04-08T13:50:28.880) |
+| CVE-2026-35039 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-08T12:16:21.430) |
+| CVE-2026-34197 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-08T09:16:21.430) |
 | CVE-2026-1342 | 8.5 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-04-08T00:16:03.860) |
 | CVE-2026-5747 | 7.5 | HIGH | Unknown | Unknown | Unknown | LOCAL | HIGH | NA | NEW (2026-04-08T00:16:05.657) |
 | CVE-2026-1343 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-08T01:16:40.503) |
