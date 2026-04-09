@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-04-09 07:49:49
+**Last Updated (UTC):** 2026-04-09 14:01:53
 
 _Auto-generated. Do not edit manually._
 
@@ -8,12 +8,13 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
-| CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | OLD (2026-04-07T19:00:01.543) |
+| CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | UPDATED (2026-04-09T01:00:01.530) |
 
 ## ⚠️ High / Critical Vulnerabilities (Not Yet Exploited)
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2025-61662 | 7.8 | HIGH | gnu | grub2 | * | LOCAL | LOW | NA | UPDATED (2026-04-09T12:16:16.890) |
 | CVE-2025-59710 | 8.8 | HIGH | kovai | biztalk360 | * | NETWORK | LOW | NA | UPDATED (2026-04-09T00:46:56.803) |
 | CVE-2025-59711 | 8.3 | HIGH | kovai | biztalk360 | * | NETWORK | LOW | NA | UPDATED (2026-04-09T00:30:06.267) |
 | CVE-2026-5814 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-09T00:16:19.827) |
@@ -36,4 +37,8 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-5852 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-09T07:16:04.130) |
 | CVE-2026-5853 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-09T07:16:05.273) |
 | CVE-2026-5854 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-09T07:16:05.477) |
+| CVE-2026-34177 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-09T10:16:21.653) |
+| CVE-2026-34178 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-09T10:16:21.820) |
+| CVE-2026-34179 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-09T10:16:21.963) |
+| CVE-2024-1490 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-09T11:16:19.657) |
 
