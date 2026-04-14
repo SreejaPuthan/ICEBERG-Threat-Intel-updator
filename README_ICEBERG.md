@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-04-13 19:24:11
+**Last Updated (UTC):** 2026-04-14 03:30:57
 
 _Auto-generated. Do not edit manually._
 
@@ -8,125 +8,29 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
-| CVE-2012-1854 | 7.8 | HIGH | microsoft | office | 2003 | LOCAL | LOW | NA | UPDATED (2026-04-13T18:16:24.067) |
-| CVE-2020-9715 | 7.8 | HIGH | apple | macos | - | LOCAL | LOW | NA | UPDATED (2026-04-13T18:16:25.877) |
-| CVE-2023-21529 | 8.8 | HIGH | microsoft | exchange_server | 2013 | NETWORK | LOW | NA | UPDATED (2026-04-13T18:16:26.130) |
-| CVE-2023-36424 | 7.8 | HIGH | microsoft | windows_10_1507 | * | LOCAL | LOW | NA | UPDATED (2026-04-13T18:16:26.350) |
-| CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | UPDATED (2026-04-13T13:00:04.023) |
-| CVE-2025-60710 | 7.8 | HIGH | microsoft | windows_11_25h2 | * | LOCAL | LOW | NA | UPDATED (2026-04-13T18:16:28.150) |
+| CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | OLD (2026-04-13T13:00:04.023) |
 
 ## ⚠️ High / Critical Vulnerabilities (Not Yet Exploited)
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
-| CVE-2025-0241 | 7.7 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:16:32.930) |
-| CVE-2025-0247 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:35.177) |
-| CVE-2025-1009 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:47.983) |
-| CVE-2025-1010 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:49.243) |
-| CVE-2025-1011 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:49.467) |
-| CVE-2025-1012 | 7.5 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:16:49.693) |
-| CVE-2025-1014 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:50.083) |
-| CVE-2025-1016 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:50.443) |
-| CVE-2025-1017 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:50.647) |
-| CVE-2025-1020 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:51.213) |
-| CVE-2025-1930 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:51.590) |
-| CVE-2025-1931 | 7.5 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:51.800) |
-| CVE-2025-1932 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:51.987) |
-| CVE-2025-1933 | 7.6 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:52.223) |
-| CVE-2025-1936 | 7.3 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:52.820) |
-| CVE-2025-1937 | 7.5 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:16:53.020) |
-| CVE-2025-1940 | 7.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:53.607) |
-| CVE-2025-1941 | 9.1 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:53.777) |
-| CVE-2025-1942 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:53.940) |
-| CVE-2025-1943 | 8.2 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:54.107) |
-| CVE-2025-26696 | 7.0 | HIGH | mozilla | thunderbird | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:16:54.973) |
-| CVE-2025-2857 | 10.0 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:56.047) |
-| CVE-2025-3029 | 7.3 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:56.460) |
-| CVE-2025-3030 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:16:56.637) |
-| CVE-2025-3032 | 7.4 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:16:56.993) |
-| CVE-2025-3033 | 7.7 | HIGH | mozilla | firefox | * | LOCAL | LOW | NA | UPDATED (2026-04-13T15:16:57.157) |
-| CVE-2025-3034 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:16:57.333) |
-| CVE-2025-2817 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:55.633) |
-| CVE-2025-4083 | 9.1 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:59.477) |
-| CVE-2025-4085 | 7.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:59.873) |
-| CVE-2025-4091 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:17:00.890) |
-| CVE-2025-4093 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:17:01.237) |
-| CVE-2025-3875 | 7.5 | HIGH | mozilla | thunderbird | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:58.377) |
-| CVE-2025-3909 | 8.1 | HIGH | mozilla | thunderbird | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:58.560) |
-| CVE-2025-4918 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:01.407) |
-| CVE-2025-4919 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:01.630) |
-| CVE-2025-5268 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:17:04.673) |
-| CVE-2025-5269 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:17:04.917) |
-| CVE-2025-5270 | 7.5 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:05.097) |
-| CVE-2025-5272 | 7.3 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:05.430) |
-| CVE-2025-49709 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:58.937) |
-| CVE-2025-49710 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:59.113) |
-| CVE-2025-5687 | 7.8 | HIGH | mozilla | vpn | * | LOCAL | LOW | NA | UPDATED (2026-04-13T15:17:05.593) |
-| CVE-2025-6424 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:06.127) |
-| CVE-2025-6426 | 8.8 | HIGH | apple | macos | - | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:06.523) |
-| CVE-2025-6427 | 9.1 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:06.703) |
-| CVE-2025-6432 | 8.6 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:07.637) |
-| CVE-2025-6433 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:07.807) |
-| CVE-2025-6435 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:17:08.143) |
-| CVE-2025-6436 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:17:08.313) |
-| CVE-2025-8028 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:08.743) |
-| CVE-2025-8029 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:08.957) |
-| CVE-2025-8030 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:09.197) |
-| CVE-2025-8031 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:09.433) |
-| CVE-2025-8032 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:09.650) |
-| CVE-2025-8034 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:10.217) |
-| CVE-2025-8035 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:10.447) |
-| CVE-2025-8036 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:10.650) |
-| CVE-2025-8037 | 9.1 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:10.840) |
-| CVE-2025-8038 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:11.023) |
-| CVE-2025-8039 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:11.200) |
-| CVE-2025-8040 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:11.393) |
-| CVE-2025-8043 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:12.743) |
-| CVE-2025-8044 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:12.973) |
-| CVE-2025-54143 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:01.840) |
-| CVE-2025-54145 | 9.1 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:02.177) |
-| CVE-2025-55029 | 7.5 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:02.503) |
-| CVE-2025-55031 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:02.840) |
-| CVE-2025-8042 | 9.8 | CRITICAL | google | android | - | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:12.573) |
-| CVE-2025-9179 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:13.367) |
-| CVE-2025-9180 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:13.590) |
-| CVE-2025-9182 | 7.5 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:13.967) |
-| CVE-2025-9184 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:17:14.297) |
-| CVE-2025-9185 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:17:14.473) |
-| CVE-2025-9187 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:17:15.060) |
-| CVE-2025-10527 | 7.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:35.760) |
-| CVE-2025-10528 | 7.3 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:35.970) |
-| CVE-2025-10533 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:36.860) |
-| CVE-2025-10534 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:37.050) |
-| CVE-2025-10535 | 7.5 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:37.213) |
-| CVE-2025-10537 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:37.560) |
-| CVE-2025-11152 | 8.6 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:38.857) |
-| CVE-2025-11153 | 7.5 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:39.020) |
-| CVE-2025-11708 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:39.173) |
-| CVE-2025-11709 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:39.383) |
-| CVE-2025-11710 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:39.603) |
-| CVE-2025-11713 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:40.177) |
-| CVE-2025-11714 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:40.350) |
-| CVE-2025-11715 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:40.547) |
-| CVE-2025-11717 | 9.1 | CRITICAL | google | android | - | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:40.930) |
-| CVE-2025-11719 | 9.8 | CRITICAL | microsoft | windows | - | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:41.257) |
-| CVE-2025-11720 | 8.1 | HIGH | google | android | - | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:41.423) |
-| CVE-2025-11721 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:41.590) |
-| CVE-2025-12380 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:41.757) |
-| CVE-2025-13012 | 7.5 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:16:41.930) |
-| CVE-2025-13014 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:42.297) |
-| CVE-2025-13016 | 7.5 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:16:42.657) |
-| CVE-2025-13017 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:42.840) |
-| CVE-2025-13018 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:43.020) |
-| CVE-2025-13019 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:43.183) |
-| CVE-2025-13020 | 8.8 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:43.353) |
-| CVE-2025-13021 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:43.530) |
-| CVE-2025-13022 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:43.687) |
-| CVE-2025-13023 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:43.857) |
-| CVE-2025-13024 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:44.140) |
-| CVE-2025-13025 | 7.5 | HIGH | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:44.300) |
-| CVE-2025-13026 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:44.463) |
-| CVE-2025-13027 | 8.1 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:16:44.647) |
-| CVE-2025-14321 | 9.8 | CRITICAL | mozilla | firefox | * | NETWORK | LOW | NA | UPDATED (2026-04-13T15:16:44.820) |
-| CVE-2025-14322 | 8.0 | HIGH | mozilla | firefox | * | NETWORK | HIGH | NA | UPDATED (2026-04-13T15:16:45.033) |
+| CVE-2026-1837 | 7.5 | HIGH | libjxl_project | libjxl | * | NETWORK | LOW | NA | UPDATED (2026-04-14T00:51:40.663) |
+| CVE-2026-26221 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-14T00:16:05.073) |
+| CVE-2026-27896 | 7.5 | HIGH | lfprojects | mcp_go_sdk | * | NETWORK | LOW | NA | UPDATED (2026-04-14T00:40:00.510) |
+| CVE-2026-3223 | 7.8 | HIGH | google | web_designer | 14.2.2.0 | LOCAL | LOW | NA | UPDATED (2026-04-14T00:33:21.800) |
+| CVE-2026-2293 | 9.8 | CRITICAL | nestjs | nest | 11.1.13 | NETWORK | LOW | NA | UPDATED (2026-04-14T00:30:36.907) |
+| CVE-2025-59383 | 9.1 | CRITICAL | qnap | media_streaming_add-on | * | NETWORK | LOW | NA | UPDATED (2026-04-14T01:17:24.170) |
+| CVE-2026-33729 | 9.8 | CRITICAL | openfga | openfga | * | NETWORK | LOW | NA | UPDATED (2026-04-14T01:04:41.103) |
+| CVE-2026-33895 | 7.5 | HIGH | digitalbazaar | forge | * | NETWORK | LOW | NA | UPDATED (2026-04-14T01:14:42.487) |
+| CVE-2026-33896 | 7.4 | HIGH | digitalbazaar | forge | * | NETWORK | HIGH | NA | UPDATED (2026-04-14T01:13:21.133) |
+| CVE-2024-14032 | 7.8 | HIGH | twitch | twitch_studio | * | LOCAL | LOW | NA | UPDATED (2026-04-14T02:01:12.537) |
+| CVE-2026-34148 | 7.5 | HIGH | fedify | fedify | * | NETWORK | LOW | NA | UPDATED (2026-04-14T01:58:27.517) |
+| CVE-2026-27681 | 9.9 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-14T00:16:06.560) |
+| CVE-2026-40164 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-14T00:16:07.360) |
+| CVE-2026-34256 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-14T01:16:03.530) |
+| CVE-2026-4352 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-14T02:16:05.613) |
+| CVE-2026-4365 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-14T02:16:05.767) |
+| CVE-2026-4388 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-14T03:16:08.720) |
+| CVE-2026-6227 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-14T03:16:08.887) |
+| CVE-2026-6264 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-14T03:16:09.050) |
 
