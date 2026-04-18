@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-04-18 03:20:41
+**Last Updated (UTC):** 2026-04-18 07:20:58
 
 _Auto-generated. Do not edit manually._
 
@@ -14,12 +14,15 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2026-4581 | 7.3 | HIGH | code-projects | simple_laundry_system | 1.0 | NETWORK | LOW | NA | UPDATED (2026-04-18T05:16:23.113) |
+| CVE-2026-31987 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-18T04:16:15.517) |
 | CVE-2026-37339 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-18T03:16:12.280) |
 | CVE-2026-37340 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-18T03:16:12.437) |
 | CVE-2026-37341 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-18T03:16:12.573) |
 | CVE-2026-37342 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-18T03:16:12.720) |
 | CVE-2026-37343 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-18T03:16:12.867) |
 | CVE-2026-37344 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-18T03:16:13.010) |
+| CVE-2026-5426 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-18T04:16:25.243) |
 | CVE-2026-2262 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-18T00:16:36.620) |
 | CVE-2026-40324 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-18T00:16:36.920) |
 | CVE-2026-40348 | 7.7 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-18T00:16:38.663) |
@@ -35,4 +38,5 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-40492 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-18T03:16:13.300) |
 | CVE-2026-40493 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-18T03:16:13.440) |
 | CVE-2026-40494 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-18T03:16:13.590) |
+| CVE-2026-6518 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-18T05:16:24.377) |
 
