@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-04-22 03:32:14
+**Last Updated (UTC):** 2026-04-22 08:01:13
 
 _Auto-generated. Do not edit manually._
 
@@ -14,9 +14,12 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2026-4424 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-22T07:16:14.113) |
+| CVE-2026-5121 | 7.5 | HIGH | libarchive | libarchive | - | NETWORK | LOW | NA | UPDATED (2026-04-22T07:16:14.570) |
 | CVE-2026-1584 | 7.5 | HIGH | gnu | gnutls | - | NETWORK | LOW | NA | UPDATED (2026-04-22T00:39:29.163) |
 | CVE-2026-39911 | 8.8 | HIGH | hedera | guardian | * | NETWORK | LOW | NA | UPDATED (2026-04-22T00:37:59.820) |
 | CVE-2026-39980 | 9.1 | CRITICAL | citeum | opencti | * | NETWORK | LOW | NA | UPDATED (2026-04-22T00:27:12.723) |
+| CVE-2026-41035 | 7.4 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-22T04:16:04.553) |
 | CVE-2026-6746 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-22T00:16:29.827) |
 | CVE-2026-6747 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-22T00:16:30.013) |
 | CVE-2026-6748 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-22T00:16:30.200) |
@@ -44,4 +47,6 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-41064 | 9.3 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-22T00:16:28.187) |
 | CVE-2026-41133 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-22T00:16:29.153) |
 | CVE-2026-41135 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-22T00:16:29.287) |
+| CVE-2026-22753 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-22T06:16:04.160) |
+| CVE-2026-22754 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-22T06:16:04.270) |
 
