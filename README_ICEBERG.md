@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-04-24 08:16:09
+**Last Updated (UTC):** 2026-04-24 13:57:07
 
 _Auto-generated. Do not edit manually._
 
@@ -14,6 +14,32 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2019-19635 | 9.8 | CRITICAL | saitoha | libsixel | 1.8.2 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2019-19636 | 9.8 | CRITICAL | saitoha | libsixel | 1.8.2 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2019-19637 | 9.8 | CRITICAL | saitoha | libsixel | 1.8.2 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2019-19638 | 9.8 | CRITICAL | saitoha | libsixel | 1.8.2 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2019-19777 | 8.8 | HIGH | nothings | stb_image.h | 2.23 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2019-19778 | 8.8 | HIGH | saitoha | libsixel | 1.8.2 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2019-20094 | 8.8 | HIGH | saitoha | libsixel | 1.8.4 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2019-20140 | 8.8 | HIGH | saitoha | libsixel | 1.8.4 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2019-20205 | 8.8 | HIGH | saitoha | libsixel | 1.8.4 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2020-36120 | 7.5 | HIGH | saitoha | libsixel | 1.8.6 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2020-21547 | 8.8 | HIGH | saitoha | libsixel | 1.8.2 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2020-21548 | 8.8 | HIGH | saitoha | libsixel | 1.8.3 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2022-27044 | 8.8 | HIGH | saitoha | libsixel | 1.8.6 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2022-27046 | 8.8 | HIGH | saitoha | libsixel | 1.8.6 | NETWORK | LOW | NA | UPDATED (2026-04-24T12:56:58.623) |
+| CVE-2021-40656 | 8.8 | HIGH | libsixel | libsixel | * | NETWORK | LOW | NA | UPDATED (2026-04-24T13:34:44.550) |
+| CVE-2026-34827 | 7.5 | HIGH | rack | rack | * | NETWORK | LOW | NA | UPDATED (2026-04-24T12:47:32.790) |
+| CVE-2026-35405 | 7.5 | HIGH | protocol | libp2p | * | NETWORK | LOW | NA | UPDATED (2026-04-24T13:37:22.880) |
+| CVE-2026-35457 | 8.2 | HIGH | protocol | libp2p | * | NETWORK | LOW | NA | UPDATED (2026-04-24T13:32:56.967) |
+| CVE-2026-31283 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-24T08:16:29.853) |
+| CVE-2026-6349 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-24T08:16:30.537) |
+| CVE-2026-40613 | 7.5 | HIGH | coturn_project | coturn | * | NETWORK | LOW | NA | UPDATED (2026-04-24T13:41:41.893) |
+| CVE-2026-40879 | 7.5 | HIGH | nestjs | nest | * | NETWORK | LOW | NA | UPDATED (2026-04-24T13:46:37.723) |
+| CVE-2026-41651 | 8.8 | HIGH | packagekit_project | packagekit | * | LOCAL | LOW | NA | UPDATED (2026-04-24T13:43:37.347) |
+| CVE-2026-40882 | 7.6 | HIGH | openremote | openremote | * | NETWORK | LOW | NA | UPDATED (2026-04-24T13:24:32.900) |
+| CVE-2026-40937 | 8.3 | HIGH | rustfs | rustfs | 1.0.0 | NETWORK | LOW | NA | UPDATED (2026-04-24T13:12:29.780) |
+| CVE-2026-41166 | 7.0 | HIGH | openremote | openremote | * | NETWORK | HIGH | NA | UPDATED (2026-04-24T13:10:21.543) |
 | CVE-2026-25775 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-24T00:16:26.757) |
 | CVE-2026-27841 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-24T00:16:26.933) |
 | CVE-2026-27843 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-24T00:16:27.123) |
@@ -38,4 +64,7 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-1950 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-24T07:16:08.523) |
 | CVE-2026-1951 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-24T07:16:09.520) |
 | CVE-2026-1952 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-24T07:16:09.627) |
+| CVE-2026-21728 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-24T09:16:03.710) |
+| CVE-2026-21515 | 9.9 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-24T13:16:03.610) |
+| CVE-2026-5367 | 8.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-24T13:16:21.990) |
 
