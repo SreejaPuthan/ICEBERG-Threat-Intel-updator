@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-04-26 13:23:08
+**Last Updated (UTC):** 2026-04-26 19:06:50
 
 _Auto-generated. Do not edit manually._
 
@@ -14,6 +14,8 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2025-35051 | 9.8 | CRITICAL | newforma | project_center | 2024.3 | NETWORK | LOW | NA | UPDATED (2026-04-26T19:04:18.887) |
+| CVE-2025-1789 | 7.8 | HIGH | genetec | genetec_update_service | * | LOCAL | LOW | NA | UPDATED (2026-04-26T18:49:06.543) |
 | CVE-2026-42255 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-26T04:16:05.787) |
 | CVE-2026-7019 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-26T05:16:01.330) |
 | CVE-2026-7022 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-26T06:16:02.210) |
