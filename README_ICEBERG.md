@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-04-27 03:50:33
+**Last Updated (UTC):** 2026-04-27 08:37:59
 
 _Auto-generated. Do not edit manually._
 
@@ -33,4 +33,11 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-7079 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-27T03:15:59.950) |
 | CVE-2026-7080 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-27T03:16:00.127) |
 | CVE-2026-7106 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-27T03:16:00.297) |
+| CVE-2026-7081 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-27T04:16:09.263) |
+| CVE-2026-7082 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-27T04:16:09.523) |
+| CVE-2026-7087 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-27T06:16:03.607) |
+| CVE-2026-7088 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-27T06:16:03.850) |
+| CVE-2026-7094 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-27T07:16:04.893) |
+| CVE-2026-7096 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-27T08:16:02.527) |
+| CVE-2026-7097 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-27T08:16:02.697) |
 
