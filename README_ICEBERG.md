@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-04-28 03:54:43
+**Last Updated (UTC):** 2026-04-28 08:36:21
 
 _Auto-generated. Do not edit manually._
 
@@ -22,7 +22,9 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-25397 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-28T02:16:06.590) |
 | CVE-2026-25406 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | UPDATED (2026-04-28T02:16:06.893) |
 | CVE-2026-25456 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-28T02:16:07.933) |
+| CVE-2026-5201 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-04-28T08:16:02.113) |
 | CVE-2026-25773 | 8.1 | HIGH | mattermost | focalboard | 8.0.0 | NETWORK | LOW | NA | UPDATED (2026-04-28T00:19:15.587) |
+| CVE-2026-32589 | 7.4 | HIGH | redhat | mirror_registry_for_red_hat_openshift | - | NETWORK | LOW | NA | UPDATED (2026-04-28T07:16:03.023) |
 | CVE-2026-5329 | 8.5 | HIGH | rapid7 | velociraptor | * | NETWORK | HIGH | NA | UPDATED (2026-04-28T00:09:51.540) |
 | CVE-2026-27243 | 9.3 | CRITICAL | adobe | connect_desktop_application | * | NETWORK | LOW | NA | UPDATED (2026-04-28T03:16:03.840) |
 | CVE-2026-27245 | 9.3 | CRITICAL | adobe | connect_desktop_application | * | NETWORK | LOW | NA | UPDATED (2026-04-28T03:16:03.960) |
@@ -51,4 +53,17 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-7215 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T03:16:04.430) |
 | CVE-2026-7216 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T03:16:04.600) |
 | CVE-2026-7218 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T03:16:04.953) |
+| CVE-2026-7219 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T04:16:23.327) |
+| CVE-2026-7220 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T04:16:26.017) |
+| CVE-2026-7221 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T04:16:26.880) |
+| CVE-2026-7223 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T04:16:29.043) |
+| CVE-2026-7224 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T06:16:04.933) |
+| CVE-2026-7225 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T06:16:05.157) |
+| CVE-2026-7226 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T06:16:05.363) |
+| CVE-2026-7227 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T06:16:05.547) |
+| CVE-2026-7228 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T06:16:05.710) |
+| CVE-2026-40967 | 8.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T07:16:03.360) |
+| CVE-2026-7234 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T07:16:04.247) |
+| CVE-2026-7237 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T08:16:02.640) |
+| CVE-2026-7240 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-04-28T08:16:02.990) |
 
