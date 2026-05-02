@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-05-02 13:38:25
+**Last Updated (UTC):** 2026-05-02 19:11:19
 
 _Auto-generated. Do not edit manually._
 
@@ -9,6 +9,7 @@ _Auto-generated. Do not edit manually._
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
 | CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | OLD (2026-04-22T19:00:02.080) |
+| CVE-2026-31431 | 7.8 | HIGH | linux | linux_kernel | * | LOCAL | LOW | NA | UPDATED (2026-05-02T16:16:15.040) |
 
 ## ⚠️ High / Critical Vulnerabilities (Not Yet Exploited)
 
@@ -39,4 +40,8 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-4062 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T12:16:16.337) |
 | CVE-2026-4100 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T12:16:16.477) |
 | CVE-2026-6320 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T12:16:16.750) |
+| CVE-2026-2554 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T14:16:17.707) |
+| CVE-2026-7630 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T14:16:18.160) |
+| CVE-2026-7632 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T14:16:18.510) |
+| CVE-2026-7644 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T15:16:14.373) |
 
