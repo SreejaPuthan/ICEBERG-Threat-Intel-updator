@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-05-02 07:54:30
+**Last Updated (UTC):** 2026-05-02 13:38:25
 
 _Auto-generated. Do not edit manually._
 
@@ -26,4 +26,17 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-5113 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T06:16:04.020) |
 | CVE-2026-7049 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T06:16:04.647) |
 | CVE-2026-7647 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-05-02T06:16:04.803) |
+| CVE-2026-2052 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T08:16:27.123) |
+| CVE-2026-6229 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T08:16:27.477) |
+| CVE-2026-7607 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T08:16:28.197) |
+| CVE-2026-7649 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T08:16:28.403) |
+| CVE-2026-5324 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T09:16:22.477) |
+| CVE-2026-7489 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T10:16:18.803) |
+| CVE-2026-7490 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T10:16:18.963) |
+| CVE-2026-7491 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T10:16:19.107) |
+| CVE-2026-4060 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T12:16:15.430) |
+| CVE-2026-4061 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T12:16:16.200) |
+| CVE-2026-4062 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T12:16:16.337) |
+| CVE-2026-4100 | 7.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T12:16:16.477) |
+| CVE-2026-6320 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-02T12:16:16.750) |
 
