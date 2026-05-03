@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-05-03 13:39:57
+**Last Updated (UTC):** 2026-05-03 19:10:54
 
 _Auto-generated. Do not edit manually._
 
@@ -15,6 +15,7 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2026-1584 | 7.5 | HIGH | gnu | gnutls | - | NETWORK | LOW | NA | UPDATED (2026-05-03T14:16:26.763) |
 | CVE-2026-31786 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | UPDATED (2026-05-03T07:16:21.370) |
 | CVE-2026-31693 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | UPDATED (2026-05-03T07:16:16.610) |
 | CVE-2026-31694 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | UPDATED (2026-05-03T07:16:16.760) |
@@ -83,4 +84,6 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-7685 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-03T07:16:25.390) |
 | CVE-2026-7694 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-03T12:15:59.700) |
 | CVE-2026-7695 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-03T13:16:08.797) |
+| CVE-2026-7698 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-03T14:16:27.107) |
+| CVE-2026-7703 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-03T17:16:13.393) |
 
