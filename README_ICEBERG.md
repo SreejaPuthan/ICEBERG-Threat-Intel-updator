@@ -1,6 +1,6 @@
 # 🧊 ICEBERG – Live CVE Intelligence Feed
 
-**Last Updated (UTC):** 2026-05-05 08:21:34
+**Last Updated (UTC):** 2026-05-05 14:14:55
 
 _Auto-generated. Do not edit manually._
 
@@ -8,14 +8,20 @@ _Auto-generated. Do not edit manually._
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
-| CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | OLD (2026-05-04T13:00:03.147) |
-| CVE-2026-31431 | 7.8 | HIGH | amazon | amazon_linux | - | LOCAL | LOW | NA | UPDATED (2026-05-05T01:16:06.730) |
+| CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | UPDATED (2026-05-05T01:00:01.147) |
+| CVE-2026-31431 | 7.8 | HIGH | amazon | amazon_linux | - | LOCAL | LOW | NA | UPDATED (2026-05-05T12:42:39.663) |
 
 ## ⚠️ High / Critical Vulnerabilities (Not Yet Exploited)
 
 | CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
 |-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
+| CVE-2026-35091 | 8.2 | HIGH | corosync | corosync | - | NETWORK | LOW | NA | UPDATED (2026-05-05T11:16:33.113) |
+| CVE-2026-35092 | 7.5 | HIGH | corosync | corosync | - | NETWORK | LOW | NA | UPDATED (2026-05-05T11:16:33.240) |
+| CVE-2026-5039 | 8.8 | HIGH | tp-link | tl-wr841n | 13.0 | ADJACENT_NETWORK | LOW | NA | UPDATED (2026-05-05T14:11:58.700) |
+| CVE-2026-32210 | 9.3 | CRITICAL | microsoft | dynamics_365 | - | NETWORK | LOW | NA | UPDATED (2026-05-05T14:10:29.540) |
 | CVE-2026-31256 | 7.5 | HIGH | mercurycom | mipc252w | - | NETWORK | LOW | NA | UPDATED (2026-05-05T01:30:08.923) |
+| CVE-2026-35903 | 9.8 | CRITICAL | mercurycom | mipc252w | - | NETWORK | LOW | NA | UPDATED (2026-05-05T13:39:47.200) |
+| CVE-2026-5712 | 8.0 | HIGH | sailpoint | identityiq | * | NETWORK | HIGH | NA | UPDATED (2026-05-05T12:48:23.100) |
 | CVE-2018-25317 | 9.8 | CRITICAL | tenda | w309r | - | NETWORK | LOW | NA | UPDATED (2026-05-05T02:46:59.470) |
 | CVE-2025-13030 | 7.1 | HIGH | pylixm | django-mdeditor | * | NETWORK | LOW | NA | UPDATED (2026-05-05T02:50:07.147) |
 | CVE-2024-39847 | 7.5 | HIGH | 4d | server | 20 | NETWORK | LOW | NA | UPDATED (2026-05-05T02:51:27.190) |
@@ -45,6 +51,7 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-7372 | 9.0 | CRITICAL | geovision | gv-vms | 20 | NETWORK | HIGH | NA | UPDATED (2026-05-05T02:38:55.450) |
 | CVE-2026-29169 | 7.5 | HIGH | apache | http_server | * | NETWORK | LOW | NA | UPDATED (2026-05-05T02:36:06.570) |
 | CVE-2026-24120 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-05-05T01:16:06.537) |
+| CVE-2026-42087 | 9.6 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | UPDATED (2026-05-05T13:16:29.263) |
 | CVE-2026-7784 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T00:16:17.647) |
 | CVE-2026-7785 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T00:16:17.827) |
 | CVE-2026-7788 | 7.3 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T00:16:18.003) |
@@ -62,4 +69,32 @@ _Auto-generated. Do not edit manually._
 | CVE-2026-7823 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T05:16:01.110) |
 | CVE-2026-40797 | 9.3 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T07:16:00.440) |
 | CVE-2026-5192 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T07:16:00.643) |
+| CVE-2026-3359 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T09:16:03.827) |
+| CVE-2026-6322 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T11:16:33.360) |
+| CVE-2023-54342 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:15.650) |
+| CVE-2023-54344 | 9.8 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:16.710) |
+| CVE-2023-54345 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:16.850) |
+| CVE-2023-54346 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:17.020) |
+| CVE-2023-54347 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:17.160) |
+| CVE-2023-54348 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:17.300) |
+| CVE-2026-42434 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:17.767) |
+| CVE-2026-42435 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:17.910) |
+| CVE-2026-42436 | 7.7 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:18.050) |
+| CVE-2026-42437 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:18.190) |
+| CVE-2026-42438 | 7.7 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:18.327) |
+| CVE-2026-42439 | 8.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:18.490) |
+| CVE-2026-43526 | 8.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:18.640) |
+| CVE-2026-43527 | 7.7 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:18.777) |
+| CVE-2026-43530 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:19.200) |
+| CVE-2026-43531 | 7.3 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-05-05T12:16:19.337) |
+| CVE-2026-43532 | 7.7 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:19.473) |
+| CVE-2026-43533 | 8.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:19.610) |
+| CVE-2026-43534 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:19.750) |
+| CVE-2026-43566 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:20.040) |
+| CVE-2026-43569 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:20.493) |
+| CVE-2026-43571 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:20.880) |
+| CVE-2026-43573 | 7.7 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:21.163) |
+| CVE-2026-6261 | 8.8 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T12:16:21.453) |
+| CVE-2026-7832 | 7.0 | HIGH | Unknown | Unknown | Unknown | LOCAL | HIGH | NA | NEW (2026-05-05T13:16:31.223) |
+| CVE-2026-7833 | 7.2 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-05T13:16:31.413) |
 
