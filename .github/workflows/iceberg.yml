@@ -1,30 +1,25 @@
 name: ICEBERG – Automated CVE Intelligence
 
 on:
-
   schedule:
-    - cron: "0 */6 * * *"
-
-  workflow_dispatch:
+    - cron: "0 */6 * * *"   # Every 6 hours
+  workflow_dispatch:        # Manual trigger
 
 permissions:
   contents: write
 
 jobs:
-
   iceberg:
-
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.10"
 
       - name: Install dependencies
         run: |
@@ -40,12 +35,8 @@ jobs:
 
       - name: Commit updated advisory
         run: |
-
           git config user.name "iceberg-bot"
           git config user.email "iceberg-bot@users.noreply.github.com"
-
-          git add README_ICEBERG.md index.html
-
-          git diff --cached --quiet || git commit -m "🔄 Automated ICEBERG CVE advisory update"
-
+          git add README_ICEBERG.md
+          git commit -m "🔄 Automated ICEBERG CVE advisory update" || echo "No changes to commit"
           git push
