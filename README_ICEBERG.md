@@ -1,32 +1,35 @@
-# 🧊 ICEBERG – Live CVE Intelligence Feed
+# ICEBERG – Automated CVE Intelligence
 
-**Last Updated (UTC):** 2026-05-09 08:04:51
+**Run Time (UTC):** 2026-05-09 14:49:16
 
-_Auto-generated. Do not edit manually._
+## 🚨 Newly Added KEV Vulnerabilities
 
-## 🚨 Actively Exploited Vulnerabilities (CISA KEV)
+No newly added KEV vulnerabilities today.
 
-| CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
-|-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
-| CVE-2025-54236 | 9.1 | CRITICAL | adobe | magento | 2.4.5 | NETWORK | LOW | NA | OLD (2026-05-05T01:00:01.147) |
+---
 
-## ⚠️ High / Critical Vulnerabilities (Not Yet Exploited)
+## ⚠️ High / Critical Vulnerabilities
 
-| CVE ID | CVSSv3.x | Severity | Vendor | Product | Version | Attack Vector | Attack Complexity | Exploit | Status |
-|-------|----------|----------|--------|---------|---------|---------------|-------------------|---------|--------|
-| CVE-2026-4424 | 7.5 | HIGH | libarchive | libarchive | - | NETWORK | LOW | NA | UPDATED (2026-05-09T00:16:29.620) |
-| CVE-2026-5121 | 7.5 | HIGH | libarchive | libarchive | - | NETWORK | LOW | NA | UPDATED (2026-05-09T00:16:29.960) |
-| CVE-2026-44028 | 7.5 | HIGH | Unknown | Unknown | Unknown | LOCAL | HIGH | NA | UPDATED (2026-05-09T04:16:26.513) |
-| CVE-2025-66467 | 8.0 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | UPDATED (2026-05-09T07:16:08.640) |
-| CVE-2026-25199 | 9.1 | CRITICAL | apache | cloudstack | * | NETWORK | LOW | NA | UPDATED (2026-05-09T07:16:09.180) |
-| CVE-2026-39816 | 8.8 | HIGH | apache | nifi | * | NETWORK | LOW | NA | UPDATED (2026-05-09T02:16:07.763) |
-| CVE-2026-41496 | 8.1 | HIGH | praison | praisonai | * | NETWORK | LOW | NA | UPDATED (2026-05-09T00:16:27.707) |
-| CVE-2026-44313 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-09T00:16:29.373) |
-| CVE-2026-41705 | 8.6 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-09T01:16:08.690) |
-| CVE-2026-6664 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-09T01:16:08.863) |
-| CVE-2026-6665 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | HIGH | NA | NEW (2026-05-09T01:16:09.013) |
-| CVE-2026-41311 | 7.5 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-09T04:16:21.913) |
-| CVE-2026-42296 | 8.1 | HIGH | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-09T04:16:25.563) |
-| CVE-2026-42301 | 7.8 | HIGH | Unknown | Unknown | Unknown | LOCAL | LOW | NA | NEW (2026-05-09T04:16:25.923) |
-| CVE-2026-42560 | 9.1 | CRITICAL | Unknown | Unknown | Unknown | NETWORK | LOW | NA | NEW (2026-05-09T06:16:10.603) |
+| CVE | Severity | Vendor | Product | CVSS | Status |
+|---|---|---|---|---|---|
+| CVE-2025-54236 | CRITICAL | Unknown | Unknown | 9.1 | OLD |
+| CVE-2026-4424 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-5121 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-44028 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2025-66467 | HIGH | Unknown | Unknown | 8.0 | UPDATED |
+| CVE-2026-25199 | CRITICAL | Unknown | Unknown | 9.1 | UPDATED |
+| CVE-2026-39816 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
+| CVE-2026-41496 | HIGH | Unknown | Unknown | 8.1 | UPDATED |
+| CVE-2026-44313 | CRITICAL | Unknown | Unknown | 9.1 | NEW |
+| CVE-2026-41705 | HIGH | Unknown | Unknown | 8.6 | NEW |
+| CVE-2026-6664 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-6665 | HIGH | Unknown | Unknown | 8.1 | NEW |
+| CVE-2026-41311 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-42296 | HIGH | Unknown | Unknown | 8.1 | NEW |
+| CVE-2026-42301 | HIGH | Unknown | Unknown | 7.8 | NEW |
+| CVE-2026-42560 | CRITICAL | Unknown | Unknown | 9.1 | NEW |
+| CVE-2026-3828 | HIGH | Unknown | Unknown | 7.2 | NEW |
 
+---
+
+_Generated automatically by ICEBERG Threat Intelligence Automation_
