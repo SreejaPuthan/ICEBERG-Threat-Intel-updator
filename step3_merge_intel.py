@@ -6,13 +6,17 @@ from datetime import datetime, timezone
 import time
 
 # ----------------------- Output --------------------------------
+
 OUTPUT_FILE = Path("README_ICEBERG.md")
+
 
 def write_md(line=""):
     with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
         f.write(line + "\n")
 
+
 # ----------------------- URLs ------------------------------------------
+
 NVD_API_URL = "https://services.nvd.nist.gov/rest/json/cves/2.0"
 
 CISA_KEV_URL = (
@@ -56,7 +60,7 @@ def fetch_nvd_cves():
     all_vulnerabilities = []
 
     start_index = 0
-    results_per_page = 2000
+    results_per_page = 100
 
     while True:
 
@@ -100,8 +104,14 @@ def fetch_nvd_cves():
 
 
 def fetch_cisa_kev():
-    response = requests.get(CISA_KEV_URL, timeout=30)
+
+    response = requests.get(
+        CISA_KEV_URL,
+        timeout=30
+    )
+
     response.raise_for_status()
+
     return response.json()
 
 
@@ -138,7 +148,9 @@ def fetch_exploitdb_cves():
 
         response.raise_for_status()
 
-        reader = csv.DictReader(response.text.splitlines())
+        reader = csv.DictReader(
+            response.text.splitlines()
+        )
 
         for row in reader:
 
@@ -195,7 +207,10 @@ def github_poc_exists(cve_id):
 
         time.sleep(1)
 
-        total = response.json().get("total_count", 0)
+        total = response.json().get(
+            "total_count",
+            0
+        )
 
         return "LIKELY" if total > 0 else "NO"
 
@@ -235,6 +250,7 @@ def extract_cpe_info(configurations):
             children = node.get("children", [])
 
             if children:
+
                 if recursive_nodes(children):
                     return True
 
@@ -345,7 +361,7 @@ def extract_nvd_cves(nvd_data):
     return results
 
 
-# ----------------------- Table Printer --------------------------------
+# ----------------------- Console Table Printer ---------------------------
 
 
 def print_table(title, cves):
@@ -393,35 +409,55 @@ def print_table(title, cves):
 
 def main():
 
+    # ---------------- RESET README ----------------
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write("")
+
+    # ---------------- HEADER ----------------
+
     print("\n" + "-" * 160)
 
     print("ICEBERG – Threat Advisory (Table Format)")
 
-    print(
-        "Run Time (UTC):",
-        datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+    runtime = datetime.now(timezone.utc).strftime(
+        "%Y-%m-%d %H:%M:%S"
     )
+
+    print("Run Time (UTC):", runtime)
 
     print("-" * 160)
 
-    # Fetch Data
+    write_md("# ICEBERG – Automated CVE Intelligence")
+    write_md("")
+    write_md(f"**Run Time (UTC):** {runtime}")
+    write_md("")
+
+    # ---------------- FETCH DATA ----------------
+
+    print("Fetching NVD data...")
 
     nvd_data = fetch_nvd_cves()
+
+    print("Finished NVD fetch")
 
     kev_data = fetch_cisa_kev()
 
     exploitdb_cves = fetch_exploitdb_cves()
 
-    # IMPORTANT FIX:
-    # ONLY recent KEV additions
-
-    exploited_set = extract_recent_kev_cves(kev_data)
+    exploited_set = extract_recent_kev_cves(
+        kev_data
+    )
 
     nvd_cves = extract_nvd_cves(nvd_data)
+
+    print(f"Total CVEs fetched: {len(nvd_cves)}")
 
     exploited = []
 
     high_risk = []
+
+    # ---------------- PROCESS CVES ----------------
 
     for cve in nvd_cves:
 
@@ -441,17 +477,18 @@ def main():
                 cve["cve_id"]
             )
 
-        # Newly added KEV only
-
         if cve["exploited"] == "YES":
 
             exploited.append(cve)
 
-        # High / Critical
-
-        elif cve["severity"] in ("HIGH", "CRITICAL"):
+        elif cve["severity"] in (
+            "HIGH",
+            "CRITICAL"
+        ):
 
             high_risk.append(cve)
+
+    # ---------------- CONSOLE OUTPUT ----------------
 
     print_table(
         "🚨 Newly Added KEV Vulnerabilities",
@@ -462,6 +499,84 @@ def main():
         "⚠️ High / Critical Vulnerabilities",
         high_risk
     )
+
+    # ---------------- README OUTPUT ----------------
+
+    # KEV SECTION
+
+    write_md("## 🚨 Newly Added KEV Vulnerabilities")
+    write_md("")
+
+    if exploited:
+
+        write_md(
+            "| CVE | Severity | Vendor | Product | CVSS | Exploit |"
+        )
+
+        write_md("|---|---|---|---|---|---|")
+
+        for cve in exploited:
+
+            write_md(
+                f"| {cve['cve_id']} "
+                f"| {cve['severity']} "
+                f"| {cve['vendor']} "
+                f"| {cve['product']} "
+                f"| {cve['cvss_score']} "
+                f"| {cve['exploit_available']} |"
+            )
+
+    else:
+
+        write_md(
+            "No newly added KEV vulnerabilities today."
+        )
+
+    write_md("")
+    write_md("---")
+    write_md("")
+
+    # HIGH RISK SECTION
+
+    write_md(
+        "## ⚠️ High / Critical Vulnerabilities"
+    )
+
+    write_md("")
+
+    if high_risk:
+
+        write_md(
+            "| CVE | Severity | Vendor | Product | CVSS | Status |"
+        )
+
+        write_md("|---|---|---|---|---|---|")
+
+        for cve in high_risk:
+
+            write_md(
+                f"| {cve['cve_id']} "
+                f"| {cve['severity']} "
+                f"| {cve['vendor']} "
+                f"| {cve['product']} "
+                f"| {cve['cvss_score']} "
+                f"| {cve['status']} |"
+            )
+
+    else:
+
+        write_md(
+            "No high-risk vulnerabilities found."
+        )
+
+    write_md("")
+    write_md("---")
+    write_md("")
+    write_md(
+        "_Generated automatically by ICEBERG Threat Intelligence Automation_"
+    )
+
+    print("README_ICEBERG.md updated successfully")
 
 
 if __name__ == "__main__":
