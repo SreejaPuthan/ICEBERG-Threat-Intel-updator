@@ -1,6 +1,6 @@
 # ICEBERG – Automated CVE Intelligence
 
-**Run Time (UTC):** 2026-05-24 04:19:29
+**Run Time (UTC):** 2026-05-24 08:40:44
 
 ## 🚨 Newly Added KEV Vulnerabilities
 
