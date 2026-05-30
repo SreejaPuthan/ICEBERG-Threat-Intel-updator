@@ -1,6 +1,6 @@
 # ICEBERG – Automated CVE Intelligence
 
-**Run Time (UTC):** 2026-05-30 13:57:05
+**Run Time (UTC):** 2026-05-30 19:37:07
 
 ## 🚨 Newly Added KEV Vulnerabilities
 
@@ -154,6 +154,34 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-7459 | HIGH | Unknown | Unknown | 7.5 | NEW |
 | CVE-2026-7465 | HIGH | Unknown | Unknown | 8.8 | NEW |
 | CVE-2026-9757 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-10119 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-10120 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2018-25405 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25406 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25407 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25408 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2018-25409 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2018-25410 | HIGH | Unknown | Unknown | 7.1 | NEW |
+| CVE-2018-25411 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25412 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2018-25413 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25414 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25415 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25416 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25417 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25418 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25419 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25420 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25422 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25424 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25425 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2018-25426 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-10121 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-10122 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-10123 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-10124 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-10125 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-10126 | HIGH | Unknown | Unknown | 8.8 | NEW |
 
 ---
 
