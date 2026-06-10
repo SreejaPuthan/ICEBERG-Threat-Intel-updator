@@ -1,6 +1,6 @@
 # ICEBERG – Automated CVE Intelligence
 
-**Run Time (UTC):** 2026-06-10 04:25:48
+**Run Time (UTC):** 2026-06-10 10:15:56
 
 ## 🚨 Newly Added KEV Vulnerabilities
 
@@ -12,6 +12,14 @@ No newly added KEV vulnerabilities today.
 
 | CVE | Severity | Vendor | Product | CVSS | Status |
 |---|---|---|---|---|---|
+| CVE-2026-4775 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-34180 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-42764 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-42765 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-45445 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-45447 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
+| CVE-2026-7383 | HIGH | Unknown | Unknown | 8.1 | UPDATED |
+| CVE-2026-9076 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-40988 | HIGH | Unknown | Unknown | 7.5 | NEW |
 | CVE-2026-40993 | HIGH | Unknown | Unknown | 7.3 | NEW |
 | CVE-2026-41003 | HIGH | Unknown | Unknown | 7.6 | NEW |
@@ -35,6 +43,7 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-45329 | HIGH | Unknown | Unknown | 7.1 | NEW |
 | CVE-2026-45541 | HIGH | Unknown | Unknown | 7.5 | NEW |
 | CVE-2026-45542 | HIGH | Unknown | Unknown | 7.1 | NEW |
+| CVE-2026-11837 | HIGH | Unknown | Unknown | 7.3 | NEW |
 
 ---
 
