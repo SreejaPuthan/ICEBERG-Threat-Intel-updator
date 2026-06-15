@@ -1,6 +1,6 @@
 # ICEBERG – Automated CVE Intelligence
 
-**Run Time (UTC):** 2026-06-14 19:47:49
+**Run Time (UTC):** 2026-06-15 05:17:00
 
 ## 🚨 Newly Added KEV Vulnerabilities
 
@@ -12,41 +12,32 @@ No newly added KEV vulnerabilities today.
 
 | CVE | Severity | Vendor | Product | CVSS | Status |
 |---|---|---|---|---|---|
-| CVE-2026-46274 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
-| CVE-2026-46275 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
-| CVE-2026-46277 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
-| CVE-2026-46280 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
-| CVE-2026-46288 | HIGH | Unknown | Unknown | 8.4 | UPDATED |
-| CVE-2026-46289 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
-| CVE-2026-46299 | HIGH | Unknown | Unknown | 7.0 | UPDATED |
-| CVE-2026-46303 | HIGH | Unknown | Unknown | 8.2 | UPDATED |
-| CVE-2026-46304 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
-| CVE-2026-46306 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
-| CVE-2026-46307 | HIGH | Unknown | Unknown | 8.3 | UPDATED |
-| CVE-2026-46311 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
-| CVE-2026-46316 | CRITICAL | Unknown | Unknown | 9.3 | UPDATED |
-| CVE-2026-46317 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
-| CVE-2026-46319 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
-| CVE-2026-46320 | HIGH | Unknown | Unknown | 7.4 | UPDATED |
-| CVE-2026-46321 | HIGH | Unknown | Unknown | 7.1 | UPDATED |
-| CVE-2026-46322 | HIGH | Unknown | Unknown | 7.1 | UPDATED |
-| CVE-2026-46323 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
-| CVE-2026-46324 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
-| CVE-2026-46325 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
-| CVE-2026-46326 | HIGH | Unknown | Unknown | 8.4 | UPDATED |
-| CVE-2026-46327 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
-| CVE-2026-46328 | HIGH | Unknown | Unknown | 7.3 | UPDATED |
-| CVE-2026-46330 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
-| CVE-2026-46332 | HIGH | Unknown | Unknown | 8.0 | UPDATED |
-| CVE-2026-52906 | HIGH | Unknown | Unknown | 7.7 | UPDATED |
-| CVE-2026-52907 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
-| CVE-2025-52292 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
-| CVE-2025-52293 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
-| CVE-2025-55657 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
-| CVE-2026-54420 | HIGH | Unknown | Unknown | 8.5 | NEW |
-| CVE-2026-54410 | HIGH | Unknown | Unknown | 8.6 | NEW |
-| CVE-2026-54412 | HIGH | Unknown | Unknown | 8.2 | NEW |
-| CVE-2026-54413 | HIGH | Unknown | Unknown | 8.2 | NEW |
+| CVE-2026-4775 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-10087 | HIGH | Unknown | Unknown | 8.7 | UPDATED |
+| CVE-2026-44249 | HIGH | Unknown | Unknown | 8.1 | UPDATED |
+| CVE-2026-44250 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-44890 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-44892 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-44893 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-44894 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-45416 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-45674 | HIGH | Unknown | Unknown | 8.7 | UPDATED |
+| CVE-2026-46340 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-53721 | HIGH | Unknown | Unknown | 8.2 | UPDATED |
+| CVE-2026-47691 | HIGH | Unknown | Unknown | 8.7 | UPDATED |
+| CVE-2026-48006 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-48059 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-48748 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-50010 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-50011 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-12192 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-12193 | HIGH | Unknown | Unknown | 7.8 | NEW |
+| CVE-2026-12197 | HIGH | Unknown | Unknown | 7.2 | NEW |
+| CVE-2026-12198 | HIGH | Unknown | Unknown | 7.3 | NEW |
+| CVE-2026-12200 | HIGH | Unknown | Unknown | 7.3 | NEW |
+| CVE-2026-12204 | HIGH | Unknown | Unknown | 7.3 | NEW |
+| CVE-2026-12214 | HIGH | Unknown | Unknown | 7.8 | NEW |
+| CVE-2026-12217 | HIGH | Unknown | Unknown | 7.8 | NEW |
 
 ---
 
