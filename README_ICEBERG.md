@@ -1,6 +1,6 @@
 # ICEBERG – Automated CVE Intelligence
 
-**Run Time (UTC):** 2026-07-05 09:17:40
+**Run Time (UTC):** 2026-07-05 13:57:27
 
 ## 🚨 Newly Added KEV Vulnerabilities
 
@@ -218,6 +218,7 @@ No newly added KEV vulnerabilities today.
 | CVE-2021-37292 | HIGH | Unknown | Unknown | 7.2 | UPDATED |
 | CVE-2022-27260 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2022-27262 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
+| CVE-2022-28397 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2022-27405 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2022-27406 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2021-36460 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
@@ -303,6 +304,7 @@ No newly added KEV vulnerabilities today.
 | CVE-2022-36552 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2022-37176 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2022-36202 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
+| CVE-2022-36640 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2022-36271 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2022-30078 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
 | CVE-2022-37144 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
@@ -396,6 +398,7 @@ No newly added KEV vulnerabilities today.
 | CVE-2023-27161 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2023-23328 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
 | CVE-2023-26769 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2022-45597 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2023-24094 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2023-25261 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2023-25262 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
@@ -544,6 +547,7 @@ No newly added KEV vulnerabilities today.
 | CVE-2023-23324 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2023-23325 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2023-24294 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2023-43303 | HIGH | Unknown | Unknown | 8.2 | UPDATED |
 | CVE-2023-33411 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2023-33412 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
 | CVE-2023-33413 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
@@ -607,6 +611,7 @@ No newly added KEV vulnerabilities today.
 | CVE-2024-29640 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2024-29477 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
 | CVE-2024-27620 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2024-22949 | CRITICAL | Unknown | Unknown | 9.1 | UPDATED |
 | CVE-2023-51142 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2024-32161 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2024-32409 | HIGH | Unknown | Unknown | 7.1 | UPDATED |
@@ -1024,6 +1029,7 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-30460 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
 | CVE-2025-69515 | CRITICAL | Unknown | Unknown | 9.1 | UPDATED |
 | CVE-2026-31017 | CRITICAL | Unknown | Unknown | 9.1 | UPDATED |
+| CVE-2025-69624 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2025-69627 | HIGH | Unknown | Unknown | 8.4 | UPDATED |
 | CVE-2025-61260 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2026-30461 | HIGH | Unknown | Unknown | 8.3 | UPDATED |
@@ -1067,6 +1073,16 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-14722 | HIGH | Unknown | Unknown | 7.3 | NEW |
 | CVE-2026-14732 | HIGH | Unknown | Unknown | 7.3 | NEW |
 | CVE-2026-14733 | HIGH | Unknown | Unknown | 7.3 | NEW |
+| CVE-2026-14734 | HIGH | Unknown | Unknown | 7.3 | NEW |
+| CVE-2026-14735 | HIGH | Unknown | Unknown | 7.3 | NEW |
+| CVE-2026-14736 | HIGH | Unknown | Unknown | 7.3 | NEW |
+| CVE-2026-14737 | HIGH | Unknown | Unknown | 7.3 | NEW |
+| CVE-2026-14743 | HIGH | Unknown | Unknown | 7.3 | NEW |
+| CVE-2026-14744 | HIGH | Unknown | Unknown | 7.3 | NEW |
+| CVE-2026-14745 | HIGH | Unknown | Unknown | 7.3 | NEW |
+| CVE-2026-14746 | HIGH | Unknown | Unknown | 7.3 | NEW |
+| CVE-2026-14747 | HIGH | Unknown | Unknown | 7.3 | NEW |
+| CVE-2026-14749 | HIGH | Unknown | Unknown | 7.3 | NEW |
 
 ---
 
