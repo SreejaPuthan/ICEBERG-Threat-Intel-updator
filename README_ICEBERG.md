@@ -1,6 +1,6 @@
 # ICEBERG – Automated CVE Intelligence
 
-**Run Time (UTC):** 2026-08-01 08:30:12
+**Run Time (UTC):** 2026-08-01 13:44:02
 
 ## 🚨 Newly Added KEV Vulnerabilities
 
@@ -82,6 +82,42 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-15414 | HIGH | Unknown | Unknown | 8.8 | NEW |
 | CVE-2026-3141 | CRITICAL | Unknown | Unknown | 9.1 | NEW |
 | CVE-2026-15988 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-15052 | HIGH | Unknown | Unknown | 7.2 | NEW |
+| CVE-2026-15450 | HIGH | Unknown | Unknown | 8.1 | NEW |
+| CVE-2026-15964 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-16144 | HIGH | Unknown | Unknown | 8.1 | NEW |
+| CVE-2026-16635 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2025-71403 | HIGH | Unknown | Unknown | 7.1 | NEW |
+| CVE-2026-66402 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-67288 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-67289 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-67290 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-67291 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-67296 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-67297 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-67298 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-67299 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-67300 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-67301 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-67304 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-67308 | CRITICAL | Unknown | Unknown | 10.0 | NEW |
+| CVE-2026-67322 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-67323 | HIGH | Unknown | Unknown | 8.4 | NEW |
+| CVE-2026-67324 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-67325 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-67326 | HIGH | Unknown | Unknown | 7.0 | NEW |
+| CVE-2026-67327 | HIGH | Unknown | Unknown | 8.3 | NEW |
+| CVE-2026-67328 | HIGH | Unknown | Unknown | 8.1 | NEW |
+| CVE-2026-67329 | HIGH | Unknown | Unknown | 7.1 | NEW |
+| CVE-2026-67330 | CRITICAL | Unknown | Unknown | 9.9 | NEW |
+| CVE-2026-67331 | HIGH | Unknown | Unknown | 8.3 | NEW |
+| CVE-2026-67333 | HIGH | Unknown | Unknown | 7.2 | NEW |
+| CVE-2026-67336 | HIGH | Unknown | Unknown | 8.7 | NEW |
+| CVE-2026-67340 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-67341 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-67342 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-67343 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-67352 | HIGH | Unknown | Unknown | 7.6 | NEW |
 
 ---
 
