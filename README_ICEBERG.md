@@ -1,6 +1,6 @@
 # ICEBERG – Automated CVE Intelligence
 
-**Run Time (UTC):** 2026-09-11 04:20:05
+**Run Time (UTC):** 2026-09-11 11:04:18
 
 ## 🚨 Newly Added KEV Vulnerabilities
 
@@ -12,6 +12,8 @@ No newly added KEV vulnerabilities today.
 
 | CVE | Severity | Vendor | Product | CVSS | Status |
 |---|---|---|---|---|---|
+| CVE-2026-16118 | HIGH | Unknown | Unknown | 7.1 | UPDATED |
+| CVE-2026-85150 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-69600 | HIGH | Unknown | Unknown | 7.0 | UPDATED |
 | CVE-2026-69911 | HIGH | Unknown | Unknown | 7.0 | UPDATED |
 | CVE-2026-81353 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
@@ -53,6 +55,16 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-81825 | HIGH | Unknown | Unknown | 7.2 | NEW |
 | CVE-2026-89161 | HIGH | Unknown | Unknown | 7.4 | NEW |
 | CVE-2026-8778 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-89060 | HIGH | Unknown | Unknown | 7.7 | NEW |
+| CVE-2026-73784 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-73785 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-87908 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-89174 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-89176 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-89177 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-89178 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-80469 | HIGH | Unknown | Unknown | 8.3 | NEW |
+| CVE-2026-17037 | HIGH | Unknown | Unknown | 7.2 | NEW |
 
 ---
 
