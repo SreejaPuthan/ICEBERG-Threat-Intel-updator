@@ -1,10 +1,14 @@
 # ICEBERG – Automated CVE Intelligence
 
-**Run Time (UTC):** 2026-09-11 16:19:58
+**Run Time (UTC):** 2026-09-11 20:51:12
 
 ## 🚨 Newly Added KEV Vulnerabilities
 
-No newly added KEV vulnerabilities today.
+| CVE | Severity | Vendor | Product | CVSS | Exploit |
+|---|---|---|---|---|---|
+| CVE-2026-42016 | HIGH | Unknown | Unknown | 8.1 | UNKNOWN |
+| CVE-2026-42018 | HIGH | Unknown | Unknown | 7.5 | UNKNOWN |
+| CVE-2026-84869 | CRITICAL | Unknown | Unknown | 9.9 | UNKNOWN |
 
 ---
 
@@ -71,12 +75,13 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-38057 | HIGH | Unknown | Unknown | 8.1 | UPDATED |
 | CVE-2026-38059 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-16118 | HIGH | Unknown | Unknown | 7.1 | UPDATED |
-| CVE-2026-42016 | HIGH | Unknown | Unknown | 8.1 | UPDATED |
+| CVE-2026-15630 | CRITICAL | Unknown | Unknown | 9.9 | UPDATED |
 | CVE-2026-43829 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-43830 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2026-43831 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-43832 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-13738 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
+| CVE-2026-69105 | HIGH | Unknown | Unknown | 8.1 | UPDATED |
 | CVE-2026-69106 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
 | CVE-2026-62420 | CRITICAL | Unknown | Unknown | 9.9 | UPDATED |
 | CVE-2026-63294 | CRITICAL | Unknown | Unknown | 9.9 | UPDATED |
@@ -85,10 +90,28 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-63298 | CRITICAL | Unknown | Unknown | 9.9 | UPDATED |
 | CVE-2026-63299 | CRITICAL | Unknown | Unknown | 9.9 | UPDATED |
 | CVE-2026-63300 | CRITICAL | Unknown | Unknown | 9.9 | UPDATED |
+| CVE-2026-16033 | HIGH | Unknown | Unknown | 8.5 | UPDATED |
+| CVE-2026-19001 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
+| CVE-2026-19002 | HIGH | Unknown | Unknown | 8.1 | UPDATED |
+| CVE-2026-19004 | HIGH | Unknown | Unknown | 8.1 | UPDATED |
 | CVE-2026-66898 | CRITICAL | Unknown | Unknown | 9.9 | UPDATED |
+| CVE-2026-19003 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-66256 | HIGH | Unknown | Unknown | 7.2 | UPDATED |
 | CVE-2026-75056 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-70737 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
+| CVE-2026-70846 | CRITICAL | Unknown | Unknown | 9.6 | UPDATED |
+| CVE-2026-70852 | HIGH | Unknown | Unknown | 8.2 | UPDATED |
+| CVE-2026-70910 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-70922 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
+| CVE-2026-54457 | HIGH | Unknown | Unknown | 7.7 | UPDATED |
 | CVE-2026-66897 | CRITICAL | Unknown | Unknown | 9.9 | UPDATED |
+| CVE-2026-65646 | CRITICAL | Unknown | Unknown | 9.9 | UPDATED |
+| CVE-2026-72984 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
+| CVE-2026-81532 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
+| CVE-2026-81533 | HIGH | Unknown | Unknown | 7.1 | UPDATED |
+| CVE-2026-82466 | HIGH | Unknown | Unknown | 8.7 | UPDATED |
+| CVE-2026-12894 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
+| CVE-2026-17615 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-85150 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-85236 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
 | CVE-2026-85237 | HIGH | Unknown | Unknown | 8.1 | UPDATED |
@@ -98,6 +121,15 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-57163 | CRITICAL | Unknown | Unknown | 9.1 | UPDATED |
 | CVE-2026-67277 | HIGH | Unknown | Unknown | 8.2 | UPDATED |
 | CVE-2026-86060 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
+| CVE-2026-13608 | HIGH | Unknown | Unknown | 7.4 | UPDATED |
+| CVE-2026-18924 | CRITICAL | Unknown | Unknown | 9.1 | UPDATED |
+| CVE-2026-19931 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
+| CVE-2026-80229 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-80230 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-80231 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-80255 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-82208 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-82209 | HIGH | Unknown | Unknown | 8.2 | UPDATED |
 | CVE-2026-80219 | HIGH | Unknown | Unknown | 8.7 | UPDATED |
 | CVE-2026-77089 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2026-77091 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
@@ -105,7 +137,16 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-77097 | HIGH | Unknown | Unknown | 8.2 | UPDATED |
 | CVE-2026-77098 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2026-77106 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
+| CVE-2026-73309 | HIGH | Unknown | Unknown | 7.4 | UPDATED |
+| CVE-2026-73311 | HIGH | Unknown | Unknown | 7.4 | UPDATED |
+| CVE-2026-73312 | HIGH | Unknown | Unknown | 7.4 | UPDATED |
+| CVE-2026-73314 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-73315 | HIGH | Unknown | Unknown | 8.6 | UPDATED |
+| CVE-2026-73316 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-74239 | HIGH | Unknown | Unknown | 7.2 | UPDATED |
 | CVE-2026-20293 | HIGH | Unknown | Unknown | 7.1 | UPDATED |
+| CVE-2026-86073 | HIGH | Unknown | Unknown | 7.6 | UPDATED |
+| CVE-2026-68846 | HIGH | Unknown | Unknown | 7.1 | UPDATED |
 | CVE-2026-68889 | HIGH | Unknown | Unknown | 7.1 | UPDATED |
 | CVE-2026-69270 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-69291 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
@@ -129,20 +170,40 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-69600 | HIGH | Unknown | Unknown | 7.0 | UPDATED |
 | CVE-2026-69605 | HIGH | Unknown | Unknown | 7.0 | UPDATED |
 | CVE-2026-69681 | HIGH | Unknown | Unknown | 8.0 | UPDATED |
+| CVE-2026-69727 | HIGH | Unknown | Unknown | 8.0 | UPDATED |
 | CVE-2026-69773 | HIGH | Unknown | Unknown | 8.0 | UPDATED |
 | CVE-2026-69777 | HIGH | Unknown | Unknown | 8.0 | UPDATED |
 | CVE-2026-69787 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-69827 | HIGH | Unknown | Unknown | 8.1 | UPDATED |
 | CVE-2026-69859 | HIGH | Unknown | Unknown | 7.0 | UPDATED |
 | CVE-2026-69911 | HIGH | Unknown | Unknown | 7.0 | UPDATED |
+| CVE-2026-70572 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-70573 | HIGH | Unknown | Unknown | 7.0 | UPDATED |
 | CVE-2026-70577 | HIGH | Unknown | Unknown | 7.0 | UPDATED |
 | CVE-2026-70581 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-71328 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
 | CVE-2026-72941 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-72946 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-72988 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-72991 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-72992 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-72993 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-72994 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-72996 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-72997 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-73000 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-73002 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-73007 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-73015 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-73020 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-77489 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-77904 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-77905 | HIGH | Unknown | Unknown | 7.0 | UPDATED |
+| CVE-2026-77906 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
+| CVE-2026-78444 | HIGH | Unknown | Unknown | 8.1 | UPDATED |
+| CVE-2026-78445 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
+| CVE-2026-78457 | HIGH | Unknown | Unknown | 7.0 | UPDATED |
+| CVE-2026-80075 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-81353 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-81821 | HIGH | Unknown | Unknown | 8.4 | UPDATED |
 | CVE-2026-81822 | HIGH | Unknown | Unknown | 8.4 | UPDATED |
@@ -150,13 +211,23 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-83983 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-83988 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-83999 | HIGH | Unknown | Unknown | 7.0 | UPDATED |
+| CVE-2026-84000 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-86074 | HIGH | Unknown | Unknown | 7.1 | UPDATED |
 | CVE-2026-28602 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-28606 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2026-28616 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-28653 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-77111 | HIGH | Unknown | Unknown | 8.7 | UPDATED |
 | CVE-2026-19232 | CRITICAL | Unknown | Unknown | 9.9 | UPDATED |
-| CVE-2026-84869 | CRITICAL | Unknown | Unknown | 9.9 | UPDATED |
+| CVE-2026-75771 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-75862 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-75863 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-76199 | HIGH | Unknown | Unknown | 8.6 | UPDATED |
+| CVE-2026-82005 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-82006 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-82007 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-86075 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-86076 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
 | CVE-2026-86083 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
 | CVE-2026-87606 | HIGH | Unknown | Unknown | 8.1 | UPDATED |
 | CVE-2026-21087 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
@@ -181,6 +252,8 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-82079 | HIGH | Unknown | Unknown | 8.4 | UPDATED |
 | CVE-2026-84939 | CRITICAL | Unknown | Unknown | 9.1 | UPDATED |
 | CVE-2026-85217 | HIGH | Unknown | Unknown | 8.6 | UPDATED |
+| CVE-2026-88890 | HIGH | Unknown | Unknown | 8.5 | UPDATED |
+| CVE-2026-88895 | HIGH | Unknown | Unknown | 7.2 | UPDATED |
 | CVE-2026-81789 | HIGH | Unknown | Unknown | 8.6 | UPDATED |
 | CVE-2026-88924 | HIGH | Unknown | Unknown | 7.0 | UPDATED |
 | CVE-2026-79987 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
@@ -188,6 +261,7 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-81048 | CRITICAL | Unknown | Unknown | 9.6 | UPDATED |
 | CVE-2026-81467 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2026-81468 | CRITICAL | Unknown | Unknown | 9.1 | UPDATED |
+| CVE-2026-73694 | HIGH | Unknown | Unknown | 7.2 | UPDATED |
 | CVE-2026-11813 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-18994 | HIGH | Unknown | Unknown | 7.1 | UPDATED |
 | CVE-2026-19136 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
@@ -196,10 +270,14 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-75940 | CRITICAL | Unknown | Unknown | 9.1 | UPDATED |
 | CVE-2026-79592 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-85025 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
+| CVE-2025-57231 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-19646 | CRITICAL | Unknown | Unknown | 9.1 | UPDATED |
 | CVE-2026-2310 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
+| CVE-2026-45762 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-45764 | CRITICAL | Unknown | Unknown | 9.1 | UPDATED |
+| CVE-2026-45765 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-45766 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-45768 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-45769 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-45770 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-71647 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
@@ -304,6 +382,23 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-89066 | HIGH | Unknown | Unknown | 7.8 | NEW |
 | CVE-2026-89260 | HIGH | Unknown | Unknown | 7.5 | NEW |
 | CVE-2026-89262 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-72708 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-72709 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-72710 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-89099 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-54072 | CRITICAL | Unknown | Unknown | 9.3 | NEW |
+| CVE-2026-62089 | HIGH | Unknown | Unknown | 7.1 | NEW |
+| CVE-2026-62102 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-62103 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-62105 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-62106 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-62107 | HIGH | Unknown | Unknown | 8.8 | NEW |
+| CVE-2026-62109 | HIGH | Unknown | Unknown | 7.6 | NEW |
+| CVE-2026-62112 | HIGH | Unknown | Unknown | 7.6 | NEW |
+| CVE-2026-79393 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-79395 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-53952 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-54135 | HIGH | Unknown | Unknown | 7.5 | NEW |
 
 ---
 
