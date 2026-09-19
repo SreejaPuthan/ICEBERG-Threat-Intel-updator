@@ -1,6 +1,6 @@
 # ICEBERG – Automated CVE Intelligence
 
-**Run Time (UTC):** 2026-09-19 15:46:39
+**Run Time (UTC):** 2026-09-19 20:28:12
 
 ## 🚨 Newly Added KEV Vulnerabilities
 
@@ -16,6 +16,7 @@ No newly added KEV vulnerabilities today.
 | CVE-2025-39682 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
 | CVE-2025-39964 | HIGH | Unknown | Unknown | 7.8 | UPDATED |
 | CVE-2026-53266 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
+| CVE-2026-45363 | CRITICAL | Unknown | Unknown | 9.1 | UPDATED |
 | CVE-2026-86429 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-86434 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
 | CVE-2026-61516 | CRITICAL | Unknown | Unknown | 9.8 | UPDATED |
