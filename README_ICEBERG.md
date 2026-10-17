@@ -1,6 +1,6 @@
 # ICEBERG – Automated CVE Intelligence
 
-**Run Time (UTC):** 2026-10-17 15:23:50
+**Run Time (UTC):** 2026-10-17 20:26:26
 
 ## 🚨 Newly Added KEV Vulnerabilities
 
@@ -97,6 +97,21 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-100316 | HIGH | Unknown | Unknown | 7.2 | NEW |
 | CVE-2026-111110 | HIGH | Unknown | Unknown | 7.2 | NEW |
 | CVE-2026-110889 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-109701 | HIGH | Unknown | Unknown | 7.1 | NEW |
+| CVE-2026-111880 | HIGH | Unknown | Unknown | 7.4 | NEW |
+| CVE-2026-111881 | HIGH | Unknown | Unknown | 7.6 | NEW |
+| CVE-2026-111882 | HIGH | Unknown | Unknown | 8.1 | NEW |
+| CVE-2026-111884 | HIGH | Unknown | Unknown | 8.3 | NEW |
+| CVE-2026-111897 | HIGH | Unknown | Unknown | 7.1 | NEW |
+| CVE-2026-111898 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-111901 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-111907 | HIGH | Unknown | Unknown | 7.1 | NEW |
+| CVE-2026-111908 | HIGH | Unknown | Unknown | 8.3 | NEW |
+| CVE-2026-111909 | HIGH | Unknown | Unknown | 8.1 | NEW |
+| CVE-2026-111911 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-111923 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-111924 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-111927 | HIGH | Unknown | Unknown | 7.7 | NEW |
 
 ---
 
