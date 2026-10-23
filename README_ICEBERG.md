@@ -1,6 +1,6 @@
 # ICEBERG – Automated CVE Intelligence
 
-**Run Time (UTC):** 2026-10-23 04:28:07
+**Run Time (UTC):** 2026-10-23 11:25:16
 
 ## 🚨 Newly Added KEV Vulnerabilities
 
@@ -13,7 +13,15 @@ No newly added KEV vulnerabilities today.
 | CVE | Severity | Vendor | Product | CVSS | Status |
 |---|---|---|---|---|---|
 | CVE-2019-5645 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-74534 | HIGH | Unknown | Unknown | 8.8 | UPDATED |
+| CVE-2026-49329 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-75885 | CRITICAL | Unknown | Unknown | 9.3 | UPDATED |
+| CVE-2026-75887 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-39769 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
+| CVE-2026-93017 | HIGH | Unknown | Unknown | 7.7 | UPDATED |
+| CVE-2026-75888 | HIGH | Unknown | Unknown | 7.7 | UPDATED |
 | CVE-2026-23705 | HIGH | Unknown | Unknown | 7.2 | UPDATED |
+| CVE-2026-108334 | HIGH | Unknown | Unknown | 7.4 | UPDATED |
 | CVE-2026-113606 | HIGH | Unknown | Unknown | 7.1 | UPDATED |
 | CVE-2026-113678 | CRITICAL | Unknown | Unknown | 9.9 | UPDATED |
 | CVE-2026-113658 | HIGH | Unknown | Unknown | 7.5 | UPDATED |
@@ -59,6 +67,18 @@ No newly added KEV vulnerabilities today.
 | CVE-2026-115546 | HIGH | Unknown | Unknown | 8.1 | NEW |
 | CVE-2026-115547 | CRITICAL | Unknown | Unknown | 9.1 | NEW |
 | CVE-2026-54630 | CRITICAL | Unknown | Unknown | 9.6 | NEW |
+| CVE-2026-109198 | HIGH | Unknown | Unknown | 7.2 | NEW |
+| CVE-2026-115497 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-55981 | CRITICAL | Unknown | Unknown | 9.6 | NEW |
+| CVE-2026-63244 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-112359 | HIGH | Unknown | Unknown | 7.5 | NEW |
+| CVE-2026-112835 | HIGH | Unknown | Unknown | 7.1 | NEW |
+| CVE-2026-112837 | HIGH | Unknown | Unknown | 8.5 | NEW |
+| CVE-2026-112838 | HIGH | Unknown | Unknown | 7.1 | NEW |
+| CVE-2026-112860 | CRITICAL | Unknown | Unknown | 9.3 | NEW |
+| CVE-2026-112862 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
+| CVE-2026-25716 | HIGH | Unknown | Unknown | 7.1 | NEW |
+| CVE-2026-25784 | CRITICAL | Unknown | Unknown | 9.8 | NEW |
 
 ---
 
